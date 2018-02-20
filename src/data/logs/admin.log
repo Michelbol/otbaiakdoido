@@ -1,0 +1,31 @@
+[19/5/2016 5:7:34] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: O endereço solicitado não é válido no contexto
+[19/5/2016 14:8:15] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: O endereço solicitado não é válido no contexto
+[19/5/2016 15:36:15] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: O endereço solicitado não é válido no contexto
+[19/5/2016 17:14:6] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: O endereço solicitado não é válido no contexto
+[19/5/2016 18:18:7] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: O endereço solicitado não é válido no contexto
+[19/5/2016 22:52:18] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: O endereço solicitado não é válido no contexto
+[19/5/2016 23:2:50] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: O endereço solicitado não é válido no contexto
+[19/5/2016 23:10:10] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: O endereço solicitado não é válido no contexto
+[19/5/2016 23:16:14] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: O endereço solicitado não é válido no contexto
+[20/5/2016 3:3:52] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: O endereço solicitado não é válido no contexto
+[20/5/2016 3:23:0] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: O endereço solicitado não é válido no contexto
+[20/5/2016 3:27:46] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: O endereço solicitado não é válido no contexto
+[20/5/2016 3:57:46] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: O endereço solicitado não é válido no contexto
+[20/5/2016 4:17:41] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: O endereço solicitado não é válido no contexto
+[20/5/2016 4:45:6] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: O endereço solicitado não é válido no contexto
+[20/5/2016 4:56:53] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: O endereço solicitado não é válido no contexto
+[20/5/2016 5:6:18] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: O endereço solicitado não é válido no contexto
+[20/5/2016 5:18:48] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: O endereço solicitado não é válido no contexto
+[20/5/2016 5:30:23] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: O endereço solicitado não é válido no contexto
+[20/5/2016 5:38:53] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: O endereço solicitado não é válido no contexto
+[20/5/2016 5:43:45] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: O endereço solicitado não é válido no contexto
+[20/5/2016 6:10:28] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: O endereço solicitado não é válido no contexto
+[20/5/2016 6:12:51] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: O endereço solicitado não é válido no contexto
+[29/5/2016 17:54:15] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: bind: Address already in use
+[31/5/2016 6:32:21] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: bind: Address already in use
+[1/6/2016 14:1:20] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: bind: Address already in use
+[7/6/2016 1:16:42] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: bind: Address already in use
+[9/6/2016 1:53:50] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: bind: Address already in use
+[12/6/2016 10:59:26] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: bind: Address already in use
+[30/6/2016 21:58:34] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: bind: Address already in use
+[19/5/2017 0:16:17] (Error - ?open@ServicePort@@QAEXV?$vector@Vaddress@ip@asio@boost@@V?$allocator@Vaddress@ip@asio@boost@@@std@@@std@@G@Z) NETWORK: bind: O endereço solicitado não é válido no contexto
