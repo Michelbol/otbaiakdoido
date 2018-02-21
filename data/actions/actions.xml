@@ -3,7 +3,7 @@
 	<!-- offLineTraining -->
 	<action itemid="8836;9306;8626;3739;8834" event="script" value="other/offlinetraining.lua"/>
 	 <action uniqueid="2499;2500" event="script" value="events/CTF.lua"/>
-	 <action itemid="2345" event="script" value="points.lua"/>
+	 <action itemid="2347" event="script" value="points.lua"/>
 	 <action actionid="2452" script="housetp.lua"/>
 	 
 	<!-- nEW Castle -->
@@ -15,7 +15,7 @@
         <!-- Events -->
 	<action actionid="7900" event="script" value="events/SBW.lua" />
 
-	<action actionid="7004" event="script" value="alavanca addon.lua"/>
+	<action actionid="7007" event="script" value="alavanca addon.lua"/>
        <action actionid="7003" event="script" value="alavanca stamina.lua"/>
        <action actionid="7006" event="script" value="alavanca dodge.lua"/>
        <action actionid="8005" event="script" value="alavanca items.lua"/> 

@@ -1,97 +1,91 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <houses>
-	<house name="" houseid="52" entryx="71" entryy="25" entryz="7" rent="0" townid="0" size="14" />
-	<house name="" houseid="53" entryx="75" entryy="24" entryz="7" rent="0" townid="0" size="6" />
-	<house name="" houseid="54" entryx="80" entryy="22" entryz="7" rent="0" townid="0" size="8" />
-	<house name="" houseid="55" entryx="80" entryy="30" entryz="7" rent="0" townid="0" size="6" />
-	<house name="" houseid="125" entryx="97" entryy="36" entryz="7" rent="0" townid="0" size="154" />
-	<house name="New House" houseid="198" entryx="165" entryy="60" entryz="7" rent="0" townid="1" size="1" />
-	<house name="New House" houseid="1935" entryx="176" entryy="59" entryz="7" rent="0" townid="1" size="11" />
-	<house name="New House" houseid="1943" entryx="86" entryy="24" entryz="7" rent="0" townid="1" size="0" />
-	<house name="New House" houseid="1958" entryx="184" entryy="49" entryz="7" rent="0" townid="1" size="20" />
-	<house name="New House" houseid="1959" entryx="197" entryy="49" entryz="7" rent="0" townid="1" size="10" />
-	<house name="New House" houseid="1960" entryx="191" entryy="21" entryz="7" rent="0" townid="1" size="10" />
-	<house name="New House" houseid="1961" entryx="199" entryy="37" entryz="7" rent="0" townid="1" size="24" />
-	<house name="New House" houseid="1981" entryx="169" entryy="28" entryz="5" rent="0" townid="1" size="11" />
-	<house name="New House" houseid="1983" entryx="2393" entryy="797" entryz="7" rent="0" townid="1" size="41" />
-	<house name="New House" houseid="1984" entryx="2404" entryy="797" entryz="7" rent="0" townid="1" size="41" />
-	<house name="New House" houseid="1985" entryx="2388" entryy="815" entryz="7" rent="0" townid="1" size="88" />
-	<house name="New House" houseid="1986" entryx="2400" entryy="805" entryz="7" rent="0" townid="1" size="61" />
-	<house name="New House" houseid="1987" entryx="2372" entryy="822" entryz="7" rent="0" townid="1" size="52" />
-	<house name="New House" houseid="1988" entryx="2379" entryy="824" entryz="7" rent="0" townid="1" size="61" />
-	<house name="New House" houseid="1989" entryx="2388" entryy="825" entryz="7" rent="0" townid="1" size="61" />
-	<house name="New House" houseid="1990" entryx="2400" entryy="825" entryz="7" rent="0" townid="1" size="68" />
-	<house name="New House" houseid="1991" entryx="2434" entryy="773" entryz="7" rent="0" townid="1" size="53" />
-	<house name="New House" houseid="2284" entryx="2388" entryy="805" entryz="7" rent="0" townid="1" size="72" />
-	<house name="New House" houseid="2285" entryx="2414" entryy="797" entryz="7" rent="0" townid="1" size="58" />
-	<house name="New House" houseid="2286" entryx="2412" entryy="806" entryz="7" rent="0" townid="1" size="150" />
-	<house name="New House" houseid="2287" entryx="2400" entryy="815" entryz="7" rent="0" townid="1" size="69" />
-	<house name="New House" houseid="268435521" entryx="2914" entryy="1299" entryz="7" rent="0" townid="1" size="118" />
-	<house name="New House" houseid="268435522" entryx="2934" entryy="1299" entryz="7" rent="0" townid="1" size="28" />
-	<house name="New House" houseid="268435523" entryx="2938" entryy="1295" entryz="6" rent="0" townid="1" size="28" />
-	<house name="New House" houseid="268435524" entryx="2940" entryy="1295" entryz="6" rent="0" townid="1" size="28" />
-	<house name="New House" houseid="268435525" entryx="2955" entryy="1295" entryz="6" rent="0" townid="1" size="28" />
-	<house name="New House" houseid="268435526" entryx="2957" entryy="1295" entryz="6" rent="0" townid="1" size="28" />
-	<house name="New House" houseid="268435527" entryx="2944" entryy="1299" entryz="7" rent="0" townid="1" size="28" />
-	<house name="New House" houseid="268435528" entryx="2951" entryy="1299" entryz="7" rent="0" townid="1" size="26" />
-	<house name="New House" houseid="268435529" entryx="2961" entryy="1299" entryz="7" rent="0" townid="1" size="26" />
-	<house name="New House" houseid="268435530" entryx="2967" entryy="1296" entryz="7" rent="0" townid="1" size="24" />
-	<house name="New House" houseid="268435531" entryx="2967" entryy="1292" entryz="7" rent="0" townid="1" size="24" />
-	<house name="New House" houseid="268435532" entryx="2979" entryy="1312" entryz="7" rent="0" townid="1" size="26" />
-	<house name="New House" houseid="268435533" entryx="2982" entryy="1309" entryz="6" rent="0" townid="1" size="24" />
-	<house name="New House" houseid="268435534" entryx="2978" entryy="1320" entryz="7" rent="0" townid="1" size="23" />
-	<house name="New House" houseid="268435535" entryx="2978" entryy="1330" entryz="7" rent="0" townid="1" size="46" />
-	<house name="New House" houseid="268435536" entryx="2970" entryy="1336" entryz="7" rent="0" townid="1" size="70" />
-	<house name="New House" houseid="268435537" entryx="2961" entryy="1336" entryz="7" rent="0" townid="1" size="68" />
-	<house name="New House" houseid="268435538" entryx="2952" entryy="1336" entryz="7" rent="0" townid="1" size="34" />
-	<house name="New House" houseid="268435539" entryx="2942" entryy="1336" entryz="7" rent="0" townid="1" size="42" />
-	<house name="New House" houseid="268435540" entryx="2928" entryy="1338" entryz="7" rent="0" townid="1" size="22" />
-	<house name="New House" houseid="268435541" entryx="2928" entryy="1331" entryz="7" rent="0" townid="1" size="22" />
-	<house name="New House" houseid="268435542" entryx="2928" entryy="1324" entryz="7" rent="0" townid="1" size="22" />
-	<house name="New House" houseid="268435543" entryx="2914" entryy="1326" entryz="7" rent="0" townid="1" size="22" />
-	<house name="New House" houseid="268435544" entryx="2914" entryy="1321" entryz="7" rent="0" townid="1" size="22" />
-	<house name="New House" houseid="268435545" entryx="2914" entryy="1326" entryz="6" rent="0" townid="1" size="22" />
-	<house name="New House" houseid="268435546" entryx="2914" entryy="1321" entryz="6" rent="0" townid="1" size="22" />
-	<house name="New House" houseid="268435547" entryx="2925" entryy="1312" entryz="7" rent="0" townid="1" size="19" />
-	<house name="New House" houseid="268435548" entryx="2925" entryy="1308" entryz="7" rent="0" townid="1" size="19" />
-	<house name="New House" houseid="268435549" entryx="2925" entryy="1305" entryz="7" rent="0" townid="1" size="19" />
-	<house name="New House" houseid="268435550" entryx="2925" entryy="1313" entryz="6" rent="0" townid="1" size="19" />
-	<house name="New House" houseid="268435551" entryx="2925" entryy="1309" entryz="6" rent="0" townid="1" size="19" />
-	<house name="New House" houseid="268435552" entryx="2925" entryy="1305" entryz="6" rent="0" townid="1" size="19" />
-	<house name="New House" houseid="268435570" entryx="1042" entryy="1024" entryz="7" rent="0" townid="1" size="72" />
-	<house name="New House" houseid="268435573" entryx="1033" entryy="1046" entryz="7" rent="0" townid="1" size="44" />
-	<house name="New House" houseid="268435574" entryx="1021" entryy="1046" entryz="7" rent="0" townid="1" size="64" />
-	<house name="New House" houseid="268435575" entryx="1013" entryy="1053" entryz="7" rent="0" townid="1" size="60" />
-	<house name="New House" houseid="268435576" entryx="1009" entryy="1041" entryz="7" rent="0" townid="1" size="96" />
-	<house name="New House" houseid="268435577" entryx="1009" entryy="1029" entryz="7" rent="0" townid="1" size="128" />
-	<house name="New House" houseid="268435578" entryx="1010" entryy="1015" entryz="7" rent="0" townid="1" size="69" />
-	<house name="New House" houseid="268435579" entryx="1021" entryy="1016" entryz="7" rent="0" townid="1" size="60" />
-	<house name="New House" houseid="268435580" entryx="1037" entryy="1016" entryz="7" rent="0" townid="1" size="72" />
-	<house name="New House" houseid="268435581" entryx="1003" entryy="981" entryz="7" rent="0" townid="1" size="56" />
-	<house name="Unnamed House #268435658" houseid="268435658" entryx="185" entryy="63" entryz="7" rent="0" townid="1" size="33" />
-	<house name="Unnamed House #268435659" houseid="268435659" entryx="159" entryy="19" entryz="7" rent="0" townid="1" size="6" />
-	<house name="Unnamed House #268435671" houseid="268435671" entryx="98" entryy="57" entryz="7" rent="0" townid="1" size="77" />
-	<house name="Unnamed House #268435672" houseid="268435672" entryx="95" entryy="65" entryz="7" rent="0" townid="1" size="22" />
-	<house name="Unnamed House #268435673" houseid="268435673" entryx="100" entryy="66" entryz="7" rent="0" townid="1" size="27" />
-	<house name="Unnamed House #268435674" houseid="268435674" entryx="100" entryy="68" entryz="7" rent="0" townid="1" size="31" />
-	<house name="Unnamed House #268435675" houseid="268435675" entryx="115" entryy="66" entryz="7" rent="0" townid="1" size="7" />
-	<house name="Unnamed House #268435676" houseid="268435676" entryx="118" entryy="72" entryz="7" rent="0" townid="1" size="25" />
-	<house name="Unnamed House #268435677" houseid="268435677" entryx="121" entryy="69" entryz="7" rent="0" townid="1" size="19" />
-	<house name="Unnamed House #268435678" houseid="268435678" entryx="126" entryy="61" entryz="7" rent="0" townid="1" size="12" />
-	<house name="Unnamed House #268435685" houseid="268435685" entryx="142" entryy="61" entryz="7" rent="0" townid="1" size="20" />
-	<house name="Unnamed House #268435687" houseid="268435687" entryx="161" entryy="61" entryz="7" rent="0" townid="1" size="20" />
-	<house name="Unnamed House #268435689" houseid="268435689" entryx="151" entryy="61" entryz="7" rent="0" townid="1" size="20" />
-	<house name="Unnamed House #268435690" houseid="268435690" entryx="163" entryy="69" entryz="7" rent="0" townid="1" size="24" />
-	<house name="Unnamed House #268435693" houseid="268435693" entryx="179" entryy="39" entryz="7" rent="0" townid="1" size="10" />
-	<house name="Unnamed House #268435694" houseid="268435694" entryx="169" entryy="29" entryz="7" rent="0" townid="1" size="10" />
-	<house name="Unnamed House #268435695" houseid="268435695" entryx="173" entryy="38" entryz="7" rent="0" townid="1" size="13" />
-	<house name="Unnamed House #268435696" houseid="268435696" entryx="166" entryy="25" entryz="7" rent="0" townid="1" size="10" />
-	<house name="Unnamed House #268435698" houseid="268435698" entryx="154" entryy="20" entryz="7" rent="0" townid="1" size="14" />
-	<house name="Unnamed House #268435699" houseid="268435699" entryx="135" entryy="36" entryz="7" rent="0" townid="1" size="9" />
-	<house name="Unnamed House #268435700" houseid="268435700" entryx="136" entryy="23" entryz="7" rent="0" townid="1" size="26" />
-	<house name="Unnamed House #268435701" houseid="268435701" entryx="126" entryy="36" entryz="7" rent="0" townid="1" size="8" />
-	<house name="Unnamed House #268435702" houseid="268435702" entryx="219" entryy="36" entryz="7" rent="0" townid="1" size="49" />
-	<house name="Unnamed House #268435703" houseid="268435703" entryx="215" entryy="45" entryz="7" rent="0" townid="1" size="19" />
-	<house name="Unnamed House #268435717" houseid="268435717" entryx="149" entryy="19" entryz="7" rent="0" townid="1" size="6" />
-	<house name="Unnamed House #268435761" houseid="268435761" entryx="96" entryy="71" entryz="7" rent="0" townid="1" size="372" />
+  <house name="" houseid="52" entryx="71" entryy="25" entryz="7" rent="0" townid="0" size="14"/>
+  <house name="" houseid="53" entryx="75" entryy="24" entryz="7" rent="0" townid="0" size="6"/>
+  <house name="" houseid="54" entryx="80" entryy="22" entryz="7" rent="0" townid="0" size="8"/>
+  <house name="" houseid="55" entryx="80" entryy="30" entryz="7" rent="0" townid="0" size="6"/>
+  <house name="" houseid="125" entryx="97" entryy="36" entryz="7" rent="0" townid="0" size="154"/>
+  <house name="New House" houseid="1943" entryx="86" entryy="24" entryz="7" rent="0" townid="1" size="0"/>
+  <house name="New House" houseid="1959" entryx="197" entryy="49" entryz="7" rent="0" townid="1" size="10"/>
+  <house name="New House" houseid="1961" entryx="199" entryy="37" entryz="7" rent="0" townid="1" size="24"/>
+  <house name="New House" houseid="1981" entryx="169" entryy="28" entryz="5" rent="0" townid="1" size="11"/>
+  <house name="New House" houseid="1983" entryx="2393" entryy="797" entryz="7" rent="0" townid="1" size="41"/>
+  <house name="New House" houseid="1984" entryx="2404" entryy="797" entryz="7" rent="0" townid="1" size="41"/>
+  <house name="New House" houseid="1985" entryx="2388" entryy="815" entryz="7" rent="0" townid="1" size="88"/>
+  <house name="New House" houseid="1986" entryx="2400" entryy="805" entryz="7" rent="0" townid="1" size="61"/>
+  <house name="New House" houseid="1987" entryx="2372" entryy="822" entryz="7" rent="0" townid="1" size="52"/>
+  <house name="New House" houseid="1988" entryx="2379" entryy="824" entryz="7" rent="0" townid="1" size="61"/>
+  <house name="New House" houseid="1989" entryx="2388" entryy="825" entryz="7" rent="0" townid="1" size="61"/>
+  <house name="New House" houseid="1990" entryx="2400" entryy="825" entryz="7" rent="0" townid="1" size="68"/>
+  <house name="New House" houseid="1991" entryx="2434" entryy="773" entryz="7" rent="0" townid="1" size="53"/>
+  <house name="New House" houseid="2284" entryx="2388" entryy="805" entryz="7" rent="0" townid="1" size="72"/>
+  <house name="New House" houseid="2285" entryx="2414" entryy="797" entryz="7" rent="0" townid="1" size="58"/>
+  <house name="New House" houseid="2286" entryx="2412" entryy="806" entryz="7" rent="0" townid="1" size="150"/>
+  <house name="New House" houseid="2287" entryx="2400" entryy="815" entryz="7" rent="0" townid="1" size="69"/>
+  <house name="New House" houseid="268435521" entryx="2914" entryy="1299" entryz="7" rent="0" townid="1" size="118"/>
+  <house name="New House" houseid="268435522" entryx="2934" entryy="1299" entryz="7" rent="0" townid="1" size="28"/>
+  <house name="New House" houseid="268435523" entryx="2938" entryy="1295" entryz="6" rent="0" townid="1" size="28"/>
+  <house name="New House" houseid="268435524" entryx="2940" entryy="1295" entryz="6" rent="0" townid="1" size="28"/>
+  <house name="New House" houseid="268435525" entryx="2955" entryy="1295" entryz="6" rent="0" townid="1" size="28"/>
+  <house name="New House" houseid="268435526" entryx="2957" entryy="1295" entryz="6" rent="0" townid="1" size="28"/>
+  <house name="New House" houseid="268435527" entryx="2944" entryy="1299" entryz="7" rent="0" townid="1" size="28"/>
+  <house name="New House" houseid="268435528" entryx="2951" entryy="1299" entryz="7" rent="0" townid="1" size="26"/>
+  <house name="New House" houseid="268435529" entryx="2961" entryy="1299" entryz="7" rent="0" townid="1" size="26"/>
+  <house name="New House" houseid="268435530" entryx="2967" entryy="1296" entryz="7" rent="0" townid="1" size="24"/>
+  <house name="New House" houseid="268435531" entryx="2967" entryy="1292" entryz="7" rent="0" townid="1" size="24"/>
+  <house name="New House" houseid="268435532" entryx="2979" entryy="1312" entryz="7" rent="0" townid="1" size="26"/>
+  <house name="New House" houseid="268435533" entryx="2982" entryy="1309" entryz="6" rent="0" townid="1" size="24"/>
+  <house name="New House" houseid="268435534" entryx="2978" entryy="1320" entryz="7" rent="0" townid="1" size="23"/>
+  <house name="New House" houseid="268435535" entryx="2978" entryy="1330" entryz="7" rent="0" townid="1" size="46"/>
+  <house name="New House" houseid="268435536" entryx="2970" entryy="1336" entryz="7" rent="0" townid="1" size="70"/>
+  <house name="New House" houseid="268435537" entryx="2961" entryy="1336" entryz="7" rent="0" townid="1" size="68"/>
+  <house name="New House" houseid="268435538" entryx="2952" entryy="1336" entryz="7" rent="0" townid="1" size="34"/>
+  <house name="New House" houseid="268435539" entryx="2942" entryy="1336" entryz="7" rent="0" townid="1" size="42"/>
+  <house name="New House" houseid="268435540" entryx="2928" entryy="1338" entryz="7" rent="0" townid="1" size="22"/>
+  <house name="New House" houseid="268435541" entryx="2928" entryy="1331" entryz="7" rent="0" townid="1" size="22"/>
+  <house name="New House" houseid="268435542" entryx="2928" entryy="1324" entryz="7" rent="0" townid="1" size="22"/>
+  <house name="New House" houseid="268435543" entryx="2914" entryy="1326" entryz="7" rent="0" townid="1" size="22"/>
+  <house name="New House" houseid="268435544" entryx="2914" entryy="1321" entryz="7" rent="0" townid="1" size="22"/>
+  <house name="New House" houseid="268435545" entryx="2914" entryy="1326" entryz="6" rent="0" townid="1" size="22"/>
+  <house name="New House" houseid="268435546" entryx="2914" entryy="1321" entryz="6" rent="0" townid="1" size="22"/>
+  <house name="New House" houseid="268435547" entryx="2925" entryy="1312" entryz="7" rent="0" townid="1" size="19"/>
+  <house name="New House" houseid="268435548" entryx="2925" entryy="1308" entryz="7" rent="0" townid="1" size="19"/>
+  <house name="New House" houseid="268435549" entryx="2925" entryy="1305" entryz="7" rent="0" townid="1" size="19"/>
+  <house name="New House" houseid="268435550" entryx="2925" entryy="1313" entryz="6" rent="0" townid="1" size="19"/>
+  <house name="New House" houseid="268435551" entryx="2925" entryy="1309" entryz="6" rent="0" townid="1" size="19"/>
+  <house name="New House" houseid="268435552" entryx="2925" entryy="1305" entryz="6" rent="0" townid="1" size="19"/>
+  <house name="New House" houseid="268435570" entryx="1042" entryy="1024" entryz="7" rent="0" townid="1" size="72"/>
+  <house name="New House" houseid="268435573" entryx="1033" entryy="1046" entryz="7" rent="0" townid="1" size="44"/>
+  <house name="New House" houseid="268435574" entryx="1021" entryy="1046" entryz="7" rent="0" townid="1" size="64"/>
+  <house name="New House" houseid="268435575" entryx="1013" entryy="1053" entryz="7" rent="0" townid="1" size="60"/>
+  <house name="New House" houseid="268435576" entryx="1009" entryy="1041" entryz="7" rent="0" townid="1" size="96"/>
+  <house name="New House" houseid="268435577" entryx="1009" entryy="1029" entryz="7" rent="0" townid="1" size="128"/>
+  <house name="New House" houseid="268435578" entryx="1010" entryy="1015" entryz="7" rent="0" townid="1" size="69"/>
+  <house name="New House" houseid="268435579" entryx="1021" entryy="1016" entryz="7" rent="0" townid="1" size="60"/>
+  <house name="New House" houseid="268435580" entryx="1037" entryy="1016" entryz="7" rent="0" townid="1" size="72"/>
+  <house name="New House" houseid="268435581" entryx="1003" entryy="981" entryz="7" rent="0" townid="1" size="56"/>
+  <house name="Unnamed House #268435658" houseid="268435658" entryx="185" entryy="63" entryz="7" rent="0" townid="1" size="33"/>
+  <house name="Unnamed House #268435659" houseid="268435659" entryx="159" entryy="19" entryz="7" rent="0" townid="1" size="6"/>
+  <house name="Unnamed House #268435671" houseid="268435671" entryx="98" entryy="57" entryz="7" rent="0" townid="1" size="77"/>
+  <house name="Unnamed House #268435672" houseid="268435672" entryx="95" entryy="65" entryz="7" rent="0" townid="1" size="22"/>
+  <house name="Unnamed House #268435673" houseid="268435673" entryx="100" entryy="66" entryz="7" rent="0" townid="1" size="27"/>
+  <house name="Unnamed House #268435674" houseid="268435674" entryx="100" entryy="68" entryz="7" rent="0" townid="1" size="31"/>
+  <house name="Unnamed House #268435675" houseid="268435675" entryx="115" entryy="66" entryz="7" rent="0" townid="1" size="7"/>
+  <house name="Unnamed House #268435676" houseid="268435676" entryx="118" entryy="72" entryz="7" rent="0" townid="1" size="25"/>
+  <house name="Unnamed House #268435677" houseid="268435677" entryx="121" entryy="69" entryz="7" rent="0" townid="1" size="19"/>
+  <house name="Unnamed House #268435678" houseid="268435678" entryx="126" entryy="61" entryz="7" rent="0" townid="1" size="12"/>
+  <house name="Unnamed House #268435685" houseid="268435685" entryx="142" entryy="61" entryz="7" rent="0" townid="1" size="20"/>
+  <house name="Unnamed House #268435687" houseid="268435687" entryx="161" entryy="61" entryz="7" rent="0" townid="1" size="20"/>
+  <house name="Unnamed House #268435689" houseid="268435689" entryx="151" entryy="61" entryz="7" rent="0" townid="1" size="20"/>
+  <house name="Unnamed House #268435690" houseid="268435690" entryx="163" entryy="69" entryz="7" rent="0" townid="1" size="24"/>
+  <house name="Unnamed House #268435693" houseid="268435693" entryx="179" entryy="39" entryz="7" rent="0" townid="1" size="10"/>
+  <house name="Unnamed House #268435694" houseid="268435694" entryx="169" entryy="29" entryz="7" rent="0" townid="1" size="10"/>
+  <house name="Unnamed House #268435695" houseid="268435695" entryx="173" entryy="38" entryz="7" rent="0" townid="1" size="13"/>
+  <house name="Unnamed House #268435696" houseid="268435696" entryx="166" entryy="25" entryz="7" rent="0" townid="1" size="10"/>
+  <house name="Unnamed House #268435698" houseid="268435698" entryx="154" entryy="20" entryz="7" rent="0" townid="1" size="14"/>
+  <house name="Unnamed House #268435700" houseid="268435700" entryx="136" entryy="23" entryz="7" rent="0" townid="1" size="26"/>
+  <house name="Unnamed House #268435702" houseid="268435702" entryx="219" entryy="36" entryz="7" rent="0" townid="1" size="49"/>
+  <house name="Unnamed House #268435703" houseid="268435703" entryx="215" entryy="45" entryz="7" rent="0" townid="1" size="19"/>
+  <house name="Unnamed House #268435717" houseid="268435717" entryx="149" entryy="19" entryz="7" rent="0" townid="1" size="6"/>
+  <house name="Unnamed House #268435761" houseid="268435761" entryx="96" entryy="71" entryz="7" rent="0" townid="1" size="372"/>
 </houses>
