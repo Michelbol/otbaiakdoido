@@ -11025,7 +11025,7 @@
     <monster name="Rhyder" x="1" y="3" z="7" spawntime="10"/>
   </spawn>
   <spawn centerx="108" centery="98" centerz="7" radius="1">
-    <monster name="Black Sheep" x="1" y="0" z="7" spawntime="10"/>
+    <monster name="Black Sheep" x="-1" y="-1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="126" centery="98" centerz="7" radius="3">
     <monster name="Cyclops" x="2" y="2" z="7" spawntime="18"/>
