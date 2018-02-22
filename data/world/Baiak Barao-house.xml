@@ -103,10 +103,9 @@
   <house name="Templo +2 #001" houseid="268435782" entryx="140" entryy="47" entryz="5" rent="1000000" townid="1" size="10"/>
   <house name="Templo +2 #002" houseid="268435783" entryx="144" entryy="47" entryz="5" rent="1000000" townid="1" size="15"/>
   <house name="Templo +2 #003" houseid="268435784" entryx="141" entryy="51" entryz="5" rent="1000000" townid="1" size="5"/>
-  <house name="Templo +2 #004" houseid="268435785" entryx="0" entryy="0" entryz="0" rent="1000000" townid="1" size="0"/>
-  <house name="Templo +2 #005" houseid="268435786" entryx="146" entryy="48" entryz="5" rent="1000000" townid="1" size="15"/>
-  <house name="Templo +2 #006" houseid="268435787" entryx="141" entryy="52" entryz="5" rent="1000000" townid="1" size="16"/>
-  <house name="Templo +2 #007" houseid="268435788" entryx="151" entryy="51" entryz="5" rent="1000000" townid="1" size="15"/>
+  <house name="Templo +2 #004" houseid="268435786" entryx="146" entryy="48" entryz="5" rent="1000000" townid="1" size="15"/>
+  <house name="Templo +2 #005" houseid="268435787" entryx="141" entryy="52" entryz="5" rent="1000000" townid="1" size="16"/>
+  <house name="Templo +2 #006" houseid="268435788" entryx="151" entryy="51" entryz="5" rent="1000000" townid="1" size="15"/>
   <house name="Cidade #001" houseid="268435789" entryx="123" entryy="24" entryz="7" rent="1000000" townid="1" size="9"/>
   <house name="Cidade #002" houseid="268435790" entryx="128" entryy="17" entryz="7" rent="1000000" townid="1" size="8"/>
   <house name="Cidade #003" houseid="268435791" entryx="132" entryy="14" entryz="7" rent="1000000" townid="1" size="6"/>
@@ -123,7 +122,6 @@
   <house name="Cidade +1 #007" houseid="268435802" entryx="218" entryy="56" entryz="6" rent="1000000" townid="1" size="11"/>
   <house name="Cidade +1 #008" houseid="268435803" entryx="226" entryy="56" entryz="6" rent="1000000" townid="1" size="32"/>
   <house name="Cidade +1 #009" houseid="268435804" entryx="196" entryy="53" entryz="6" rent="1000000" townid="1" size="16"/>
-  <house name="Cidade +1 #010" houseid="268435805" entryx="0" entryy="0" entryz="0" rent="1000000" townid="1" size="0"/>
   <house name="Cidade +1 #011" houseid="268435806" entryx="196" entryy="45" entryz="6" rent="1000000" townid="1" size="12"/>
   <house name="Cidade +1 #012" houseid="268435807" entryx="184" entryy="45" entryz="6" rent="1000000" townid="1" size="8"/>
   <house name="Cidade +1 #013" houseid="268435808" entryx="184" entryy="45" entryz="6" rent="1000000" townid="1" size="12"/>
@@ -135,4 +133,8 @@
   <house name="Cidade Ghost +0 #019" houseid="268435814" entryx="2460" entryy="787" entryz="7" rent="1000000" townid="10" size="79"/>
   <house name="Vip 1 #011" houseid="268435815" entryx="1042" entryy="1036" entryz="7" rent="1000000" townid="9" size="63"/>
   <house name="Vip 1 #012" houseid="268435816" entryx="1049" entryy="1046" entryz="7" rent="0" townid="9" size="63"/>
+  <house name="Cidade +1 #014" houseid="268435817" entryx="127" entryy="65" entryz="6" rent="1000000" townid="1" size="5"/>
+  <house name="Cidade +1 #015" houseid="268435818" entryx="127" entryy="69" entryz="6" rent="1000000" townid="1" size="7"/>
+  <house name="Cidade +1 #016" houseid="268435819" entryx="128" entryy="69" entryz="5" rent="1000000" townid="1" size="10"/>
+  <house name="Cidade +1 #017" houseid="268435820" entryx="127" entryy="64" entryz="5" rent="1000000" townid="1" size="8"/>
 </houses>
