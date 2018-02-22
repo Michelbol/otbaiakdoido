@@ -15,7 +15,7 @@
 	<!-- Demon -->
 	<monster name="Achad" file="demon/achad.xml"/>
 	<monster name="Crazed Beggar" file="demon/Crazed Beggar.xml"/>
-	<monster name="Black Sheep" file="demon/black sheep.xml"/>
+	<monster name="Black Sheep" file="sheeps/black sheep.xml"/>
 	<monster name="Demon" file="demon/demon.xml"/>
 	<monster name="Draken Spellweaver" file="demon/Draken Spellweaver.xml"/>
 	<monster name="Draken Warmaster" file="demon/Draken Warmaster.xml"/>
