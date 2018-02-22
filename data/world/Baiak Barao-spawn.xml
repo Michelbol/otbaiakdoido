@@ -1794,18 +1794,10 @@
     <monster name="Wailing Widow" x="0" y="2" z="5" spawntime="25"/>
     <monster name="Wailing Widow" x="1" y="2" z="5" spawntime="25"/>
   </spawn>
-  <spawn centerx="140" centery="74" centerz="5" radius="1">
-    <monster name="Trainer Slayer" x="0" y="0" z="5" spawntime="10"/>
-  </spawn>
-  <spawn centerx="146" centery="74" centerz="5" radius="1">
-    <monster name="Trainer Slayer" x="0" y="0" z="5" spawntime="10"/>
-  </spawn>
-  <spawn centerx="153" centery="74" centerz="5" radius="1">
-    <monster name="Trainer Slayer" x="0" y="0" z="5" spawntime="10"/>
-  </spawn>
-  <spawn centerx="159" centery="74" centerz="5" radius="1">
-    <monster name="Trainer Slayer" x="0" y="0" z="5" spawntime="10"/>
-  </spawn>
+  <spawn centerx="140" centery="74" centerz="5" radius="1"/>
+  <spawn centerx="146" centery="74" centerz="5" radius="1"/>
+  <spawn centerx="153" centery="74" centerz="5" radius="1"/>
+  <spawn centerx="159" centery="74" centerz="5" radius="1"/>
   <spawn centerx="840" centery="78" centerz="5" radius="3">
     <monster name="Wailing Widow" x="-1" y="-1" z="5" spawntime="25"/>
     <monster name="Wailing Widow" x="0" y="0" z="5" spawntime="25"/>

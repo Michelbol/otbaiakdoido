@@ -1,86 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <houses>
-  <house name="POI #5" houseid="1943" entryx="79" entryy="22" entryz="7" rent="1000000" townid="1" size="8"/>
-  <house name="New House" houseid="1959" entryx="197" entryy="49" entryz="7" rent="1000000" townid="1" size="11"/>
-  <house name="New House" houseid="1983" entryx="2393" entryy="797" entryz="7" rent="1000000" townid="1" size="41"/>
-  <house name="New House" houseid="1984" entryx="2404" entryy="797" entryz="7" rent="1000000" townid="1" size="41"/>
-  <house name="New House" houseid="1985" entryx="2388" entryy="815" entryz="7" rent="1000000" townid="1" size="88"/>
-  <house name="New House" houseid="1986" entryx="2400" entryy="805" entryz="7" rent="1000000" townid="1" size="61"/>
-  <house name="New House" houseid="1987" entryx="2372" entryy="822" entryz="7" rent="1000000" townid="1" size="52"/>
-  <house name="New House" houseid="1988" entryx="2379" entryy="824" entryz="7" rent="1000000" townid="1" size="61"/>
-  <house name="New House" houseid="1989" entryx="2388" entryy="825" entryz="7" rent="1000000" townid="1" size="61"/>
-  <house name="New House" houseid="1990" entryx="2400" entryy="825" entryz="7" rent="1000000" townid="1" size="68"/>
-  <house name="New House" houseid="1991" entryx="2434" entryy="773" entryz="7" rent="1000000" townid="1" size="53"/>
-  <house name="New House" houseid="2284" entryx="2388" entryy="805" entryz="7" rent="1000000" townid="1" size="72"/>
-  <house name="New House" houseid="2285" entryx="2414" entryy="797" entryz="7" rent="1000000" townid="1" size="58"/>
-  <house name="New House" houseid="2286" entryx="2412" entryy="806" entryz="7" rent="1000000" townid="1" size="150"/>
-  <house name="New House" houseid="2287" entryx="2400" entryy="815" entryz="7" rent="1000000" townid="1" size="69"/>
-  <house name="New House" houseid="268435521" entryx="2914" entryy="1299" entryz="7" rent="1000000" townid="1" size="118"/>
-  <house name="New House" houseid="268435522" entryx="2934" entryy="1299" entryz="7" rent="1000000" townid="1" size="28"/>
-  <house name="New House" houseid="268435523" entryx="2938" entryy="1295" entryz="6" rent="1000000" townid="1" size="28"/>
-  <house name="New House" houseid="268435524" entryx="2940" entryy="1295" entryz="6" rent="1000000" townid="1" size="28"/>
-  <house name="New House" houseid="268435525" entryx="2955" entryy="1295" entryz="6" rent="1000000" townid="1" size="28"/>
-  <house name="New House" houseid="268435526" entryx="2957" entryy="1295" entryz="6" rent="1000000" townid="1" size="28"/>
-  <house name="New House" houseid="268435527" entryx="2944" entryy="1299" entryz="7" rent="1000000" townid="1" size="28"/>
-  <house name="New House" houseid="268435528" entryx="2951" entryy="1299" entryz="7" rent="1000000" townid="1" size="26"/>
-  <house name="New House" houseid="268435529" entryx="2961" entryy="1299" entryz="7" rent="1000000" townid="1" size="26"/>
-  <house name="New House" houseid="268435530" entryx="2967" entryy="1296" entryz="7" rent="1000000" townid="1" size="24"/>
-  <house name="New House" houseid="268435531" entryx="2967" entryy="1292" entryz="7" rent="1000000" townid="1" size="24"/>
-  <house name="New House" houseid="268435532" entryx="2979" entryy="1312" entryz="7" rent="1000000" townid="1" size="26"/>
-  <house name="New House" houseid="268435533" entryx="2982" entryy="1309" entryz="6" rent="1000000" townid="1" size="24"/>
-  <house name="New House" houseid="268435534" entryx="2978" entryy="1320" entryz="7" rent="1000000" townid="1" size="23"/>
-  <house name="New House" houseid="268435535" entryx="2978" entryy="1330" entryz="7" rent="1000000" townid="1" size="46"/>
-  <house name="New House" houseid="268435536" entryx="2970" entryy="1336" entryz="7" rent="1000000" townid="1" size="73"/>
-  <house name="New House" houseid="268435537" entryx="2961" entryy="1336" entryz="7" rent="1000000" townid="1" size="73"/>
-  <house name="New House" houseid="268435538" entryx="2952" entryy="1336" entryz="7" rent="1000000" townid="1" size="34"/>
-  <house name="New House" houseid="268435539" entryx="2942" entryy="1336" entryz="7" rent="1000000" townid="1" size="42"/>
-  <house name="New House" houseid="268435540" entryx="2928" entryy="1338" entryz="7" rent="1000000" townid="1" size="22"/>
-  <house name="New House" houseid="268435541" entryx="2928" entryy="1331" entryz="7" rent="1000000" townid="1" size="22"/>
-  <house name="New House" houseid="268435542" entryx="2928" entryy="1324" entryz="7" rent="1000000" townid="1" size="22"/>
-  <house name="New House" houseid="268435543" entryx="2914" entryy="1326" entryz="7" rent="1000000" townid="1" size="22"/>
-  <house name="New House" houseid="268435544" entryx="2914" entryy="1321" entryz="7" rent="1000000" townid="1" size="22"/>
-  <house name="New House" houseid="268435545" entryx="2914" entryy="1326" entryz="6" rent="1000000" townid="1" size="22"/>
-  <house name="New House" houseid="268435546" entryx="2914" entryy="1321" entryz="6" rent="1000000" townid="1" size="22"/>
-  <house name="New House" houseid="268435547" entryx="2925" entryy="1312" entryz="7" rent="1000000" townid="1" size="19"/>
-  <house name="New House" houseid="268435548" entryx="2925" entryy="1308" entryz="7" rent="1000000" townid="1" size="19"/>
-  <house name="New House" houseid="268435549" entryx="2925" entryy="1305" entryz="7" rent="1000000" townid="1" size="19"/>
-  <house name="New House" houseid="268435550" entryx="2925" entryy="1313" entryz="6" rent="1000000" townid="1" size="19"/>
-  <house name="New House" houseid="268435551" entryx="2925" entryy="1309" entryz="6" rent="1000000" townid="1" size="19"/>
-  <house name="New House" houseid="268435552" entryx="2925" entryy="1305" entryz="6" rent="1000000" townid="1" size="19"/>
-  <house name="New House" houseid="268435570" entryx="1042" entryy="1024" entryz="7" rent="1000000" townid="1" size="72"/>
-  <house name="New House" houseid="268435573" entryx="1033" entryy="1046" entryz="7" rent="1000000" townid="1" size="44"/>
-  <house name="New House" houseid="268435574" entryx="1021" entryy="1046" entryz="7" rent="1000000" townid="1" size="64"/>
-  <house name="New House" houseid="268435575" entryx="1013" entryy="1053" entryz="7" rent="1000000" townid="1" size="60"/>
-  <house name="New House" houseid="268435576" entryx="1009" entryy="1041" entryz="7" rent="1000000" townid="1" size="96"/>
-  <house name="New House" houseid="268435577" entryx="1009" entryy="1029" entryz="7" rent="1000000" townid="1" size="128"/>
-  <house name="New House" houseid="268435578" entryx="1010" entryy="1015" entryz="7" rent="1000000" townid="1" size="69"/>
-  <house name="New House" houseid="268435579" entryx="1021" entryy="1016" entryz="7" rent="1000000" townid="1" size="60"/>
-  <house name="New House" houseid="268435580" entryx="1037" entryy="1016" entryz="7" rent="1000000" townid="1" size="72"/>
-  <house name="New House" houseid="268435581" entryx="1003" entryy="981" entryz="7" rent="1000000" townid="1" size="56"/>
-  <house name="Unnamed House #268435658" houseid="268435658" entryx="185" entryy="63" entryz="7" rent="1000000" townid="1" size="33"/>
-  <house name="Unnamed House #268435659" houseid="268435659" entryx="159" entryy="19" entryz="7" rent="1000000" townid="1" size="6"/>
-  <house name="Unnamed House #268435671" houseid="268435671" entryx="98" entryy="57" entryz="7" rent="1000000" townid="1" size="77"/>
-  <house name="Unnamed House #268435672" houseid="268435672" entryx="95" entryy="65" entryz="7" rent="1000000" townid="1" size="22"/>
-  <house name="Unnamed House #268435673" houseid="268435673" entryx="100" entryy="66" entryz="7" rent="1000000" townid="1" size="27"/>
-  <house name="Unnamed House #268435674" houseid="268435674" entryx="100" entryy="68" entryz="7" rent="1000000" townid="1" size="31"/>
-  <house name="Unnamed House #268435675" houseid="268435675" entryx="115" entryy="65" entryz="7" rent="1000000" townid="1" size="7"/>
-  <house name="Unnamed House #268435676" houseid="268435676" entryx="118" entryy="72" entryz="7" rent="1000000" townid="1" size="25"/>
-  <house name="Unnamed House #268435677" houseid="268435677" entryx="121" entryy="69" entryz="7" rent="1000000" townid="1" size="19"/>
-  <house name="Unnamed House #268435678" houseid="268435678" entryx="126" entryy="61" entryz="7" rent="1000000" townid="1" size="12"/>
-  <house name="Unnamed House #268435685" houseid="268435685" entryx="142" entryy="60" entryz="7" rent="1000000" townid="1" size="20"/>
-  <house name="Unnamed House #268435687" houseid="268435687" entryx="161" entryy="60" entryz="7" rent="1000000" townid="1" size="20"/>
-  <house name="Unnamed House #268435689" houseid="268435689" entryx="151" entryy="60" entryz="7" rent="1000000" townid="1" size="20"/>
-  <house name="Unnamed House #268435690" houseid="268435690" entryx="163" entryy="68" entryz="7" rent="1000000" townid="1" size="24"/>
-  <house name="Unnamed House #268435693" houseid="268435693" entryx="179" entryy="40" entryz="7" rent="1000000" townid="1" size="10"/>
-  <house name="Unnamed House #268435694" houseid="268435694" entryx="168" entryy="29" entryz="7" rent="1000000" townid="1" size="10"/>
-  <house name="Unnamed House #268435695" houseid="268435695" entryx="173" entryy="39" entryz="7" rent="1000000" townid="1" size="13"/>
-  <house name="Unnamed House #268435696" houseid="268435696" entryx="166" entryy="26" entryz="7" rent="1000000" townid="1" size="10"/>
-  <house name="Unnamed House #268435698" houseid="268435698" entryx="154" entryy="21" entryz="7" rent="1000000" townid="1" size="14"/>
-  <house name="Unnamed House #268435700" houseid="268435700" entryx="135" entryy="23" entryz="7" rent="1000000" townid="1" size="26"/>
-  <house name="Unnamed House #268435702" houseid="268435702" entryx="219" entryy="36" entryz="7" rent="1000000" townid="1" size="49"/>
-  <house name="Unnamed House #268435703" houseid="268435703" entryx="215" entryy="44" entryz="7" rent="1000000" townid="1" size="19"/>
-  <house name="Unnamed House #268435717" houseid="268435717" entryx="149" entryy="20" entryz="7" rent="1000000" townid="1" size="6"/>
-  <house name="Unnamed House #268435761" houseid="268435761" entryx="96" entryy="71" entryz="7" rent="1000000" townid="1" size="372"/>
+  <house name="POI #005" houseid="1943" entryx="79" entryy="22" entryz="7" rent="1000000" townid="1" size="8"/>
+  <house name="Cidade #008" houseid="1959" entryx="197" entryy="49" entryz="7" rent="999999999" townid="1" size="74"/>
+  <house name="Cidade Ghost +0 #001" houseid="1983" entryx="2393" entryy="797" entryz="7" rent="1000000" townid="10" size="41"/>
+  <house name="Cidade Ghost +0 #002" houseid="1984" entryx="2404" entryy="797" entryz="7" rent="1000000" townid="10" size="41"/>
+  <house name="Cidade Ghost +0 #003" houseid="1985" entryx="2388" entryy="815" entryz="7" rent="1000000" townid="10" size="88"/>
+  <house name="Cidade Ghost +0 #004" houseid="1986" entryx="2400" entryy="805" entryz="7" rent="1000000" townid="10" size="61"/>
+  <house name="Cidade Ghost +0 #005" houseid="1987" entryx="2372" entryy="822" entryz="7" rent="1000000" townid="10" size="52"/>
+  <house name="Cidade Ghost +0 #006" houseid="1988" entryx="2379" entryy="824" entryz="7" rent="1000000" townid="10" size="61"/>
+  <house name="Cidade Ghost +0 #007" houseid="1989" entryx="2388" entryy="825" entryz="7" rent="1000000" townid="10" size="61"/>
+  <house name="Cidade Ghost +0 #008" houseid="1990" entryx="2400" entryy="825" entryz="7" rent="1000000" townid="10" size="68"/>
+  <house name="Cidade Ghost +0 #009" houseid="1991" entryx="2434" entryy="773" entryz="7" rent="1000000" townid="10" size="53"/>
+  <house name="Cidade Ghost +0 #010" houseid="2284" entryx="2388" entryy="805" entryz="7" rent="1000000" townid="10" size="72"/>
+  <house name="Cidade Ghost +0 #011" houseid="2285" entryx="2414" entryy="797" entryz="7" rent="1000000" townid="10" size="58"/>
+  <house name="Cidade Ghost +0 #012" houseid="2286" entryx="2412" entryy="806" entryz="7" rent="1000000" townid="10" size="150"/>
+  <house name="Cidade Ghost +0 #013" houseid="2287" entryx="2400" entryy="815" entryz="7" rent="1000000" townid="10" size="69"/>
+  <house name="Cidade Ghost II #001" houseid="268435521" entryx="2914" entryy="1299" entryz="7" rent="1000000" townid="11" size="119"/>
+  <house name="Cidade Ghost II #002" houseid="268435522" entryx="2934" entryy="1299" entryz="7" rent="1000000" townid="11" size="28"/>
+  <house name="Cidade Ghost II +1 #001" houseid="268435523" entryx="2938" entryy="1295" entryz="6" rent="1000000" townid="11" size="28"/>
+  <house name="Cidade Ghost II +1 #008" houseid="268435524" entryx="2940" entryy="1295" entryz="6" rent="1000000" townid="11" size="28"/>
+  <house name="Cidade Ghost II +1 #002" houseid="268435525" entryx="2955" entryy="1295" entryz="6" rent="1000000" townid="11" size="28"/>
+  <house name="Cidade Ghost II +1 #003" houseid="268435526" entryx="2957" entryy="1295" entryz="6" rent="1000000" townid="11" size="28"/>
+  <house name="Cidade Ghost II #003" houseid="268435527" entryx="2944" entryy="1299" entryz="7" rent="1000000" townid="11" size="28"/>
+  <house name="Cidade Ghost II #004" houseid="268435528" entryx="2951" entryy="1299" entryz="7" rent="1000000" townid="11" size="26"/>
+  <house name="Cidade Ghost II #005" houseid="268435529" entryx="2961" entryy="1299" entryz="7" rent="1000000" townid="11" size="26"/>
+  <house name="Cidade Ghost II #006" houseid="268435530" entryx="2967" entryy="1296" entryz="7" rent="1000000" townid="11" size="24"/>
+  <house name="Cidade Ghost II #011" houseid="268435531" entryx="2967" entryy="1292" entryz="7" rent="1000000" townid="11" size="24"/>
+  <house name="Cidade Ghost II #012" houseid="268435532" entryx="2979" entryy="1312" entryz="7" rent="1000000" townid="11" size="26"/>
+  <house name="Cidade Ghost II +1 #004" houseid="268435533" entryx="2982" entryy="1309" entryz="6" rent="1000000" townid="11" size="24"/>
+  <house name="Cidade Ghost II #014" houseid="268435534" entryx="2978" entryy="1320" entryz="7" rent="1000000" townid="11" size="23"/>
+  <house name="Cidade Ghost II #015" houseid="268435535" entryx="2978" entryy="1330" entryz="7" rent="1000000" townid="11" size="46"/>
+  <house name="Cidade Ghost II #016" houseid="268435536" entryx="2970" entryy="1336" entryz="7" rent="1000000" townid="11" size="73"/>
+  <house name="Cidade Ghost II #017" houseid="268435537" entryx="2961" entryy="1336" entryz="7" rent="1000000" townid="11" size="73"/>
+  <house name="Cidade Ghost II +1 #005" houseid="268435538" entryx="2952" entryy="1336" entryz="7" rent="1000000" townid="11" size="34"/>
+  <house name="Cidade Ghost II #019" houseid="268435539" entryx="2942" entryy="1336" entryz="7" rent="1000000" townid="11" size="42"/>
+  <house name="Cidade Ghost II #007" houseid="268435540" entryx="2928" entryy="1338" entryz="7" rent="1000000" townid="11" size="22"/>
+  <house name="Cidade Ghost II #008" houseid="268435541" entryx="2928" entryy="1331" entryz="7" rent="1000000" townid="11" size="22"/>
+  <house name="Cidade Ghost II #009" houseid="268435542" entryx="2928" entryy="1324" entryz="7" rent="1000000" townid="11" size="22"/>
+  <house name="Cidade Ghost II #010" houseid="268435543" entryx="2914" entryy="1326" entryz="7" rent="1000000" townid="11" size="22"/>
+  <house name="Cidade Ghost II #018" houseid="268435544" entryx="2914" entryy="1321" entryz="7" rent="1000000" townid="11" size="22"/>
+  <house name="Cidade Ghost II +1 #006" houseid="268435545" entryx="2914" entryy="1326" entryz="6" rent="1000000" townid="11" size="22"/>
+  <house name="Cidade Ghost II +1 #007" houseid="268435546" entryx="2914" entryy="1321" entryz="6" rent="1000000" townid="11" size="22"/>
+  <house name="Cidade Ghost II #013" houseid="268435547" entryx="2925" entryy="1312" entryz="7" rent="1000000" townid="11" size="19"/>
+  <house name="Cidade Ghost II #020" houseid="268435548" entryx="2925" entryy="1308" entryz="7" rent="1000000" townid="11" size="19"/>
+  <house name="Cidade Ghost II #021" houseid="268435549" entryx="2925" entryy="1305" entryz="7" rent="1000000" townid="11" size="19"/>
+  <house name="Cidade Ghost II +1 #009" houseid="268435550" entryx="2925" entryy="1313" entryz="6" rent="1000000" townid="11" size="19"/>
+  <house name="Cidade Ghost II +1 #010" houseid="268435551" entryx="2925" entryy="1309" entryz="6" rent="1000000" townid="11" size="19"/>
+  <house name="Cidade Ghost II +1 #011" houseid="268435552" entryx="2925" entryy="1305" entryz="6" rent="1000000" townid="11" size="19"/>
+  <house name="Vip 1 #001" houseid="268435570" entryx="1042" entryy="1024" entryz="7" rent="1000000" townid="9" size="72"/>
+  <house name="Vip 1 #002" houseid="268435573" entryx="1033" entryy="1046" entryz="7" rent="1000000" townid="9" size="44"/>
+  <house name="Vip 1 #003" houseid="268435574" entryx="1021" entryy="1046" entryz="7" rent="1000000" townid="9" size="64"/>
+  <house name="Vip 1 #004" houseid="268435575" entryx="1013" entryy="1053" entryz="7" rent="1000000" townid="9" size="60"/>
+  <house name="Vip 1 #005" houseid="268435576" entryx="1009" entryy="1041" entryz="7" rent="1000000" townid="9" size="96"/>
+  <house name="Vip 1 #006" houseid="268435577" entryx="1009" entryy="1029" entryz="7" rent="1000000" townid="9" size="128"/>
+  <house name="Vip 1 #007" houseid="268435578" entryx="1010" entryy="1015" entryz="7" rent="1000000" townid="9" size="69"/>
+  <house name="Vip 1 #008" houseid="268435579" entryx="1021" entryy="1016" entryz="7" rent="1000000" townid="9" size="60"/>
+  <house name="Vip 1 #009" houseid="268435580" entryx="1037" entryy="1016" entryz="7" rent="1000000" townid="9" size="72"/>
+  <house name="Vip 1 #010" houseid="268435581" entryx="1003" entryy="981" entryz="7" rent="1000000" townid="9" size="56"/>
+  <house name="Cidade #009" houseid="268435658" entryx="185" entryy="62" entryz="7" rent="1000000" townid="1" size="33"/>
+  <house name="Cidade #010" houseid="268435659" entryx="159" entryy="19" entryz="7" rent="1000000" townid="1" size="6"/>
+  <house name="Cidade #011" houseid="268435671" entryx="98" entryy="57" entryz="7" rent="1000000" townid="1" size="77"/>
+  <house name="Cidade #012" houseid="268435672" entryx="95" entryy="65" entryz="7" rent="1000000" townid="1" size="22"/>
+  <house name="Cidade #013" houseid="268435673" entryx="100" entryy="66" entryz="7" rent="1000000" townid="1" size="27"/>
+  <house name="Cidade #014" houseid="268435674" entryx="100" entryy="68" entryz="7" rent="1000000" townid="1" size="31"/>
+  <house name="Cidade #015" houseid="268435675" entryx="115" entryy="65" entryz="7" rent="1000000" townid="1" size="7"/>
+  <house name="Cidade #016" houseid="268435676" entryx="118" entryy="72" entryz="7" rent="1000000" townid="1" size="25"/>
+  <house name="Cidade #017" houseid="268435677" entryx="121" entryy="69" entryz="7" rent="1000000" townid="1" size="19"/>
+  <house name="Cidade #018" houseid="268435678" entryx="126" entryy="61" entryz="7" rent="1000000" townid="1" size="12"/>
+  <house name="Cidade #019" houseid="268435685" entryx="142" entryy="60" entryz="7" rent="1000000" townid="1" size="20"/>
+  <house name="Cidade #020" houseid="268435687" entryx="161" entryy="60" entryz="7" rent="1000000" townid="1" size="20"/>
+  <house name="Cidade #021" houseid="268435689" entryx="151" entryy="60" entryz="7" rent="1000000" townid="1" size="20"/>
+  <house name="Cidade #022" houseid="268435690" entryx="163" entryy="68" entryz="7" rent="1000000" townid="1" size="24"/>
+  <house name="Cidade #023" houseid="268435693" entryx="179" entryy="40" entryz="7" rent="1000000" townid="1" size="10"/>
+  <house name="Cidade #024" houseid="268435694" entryx="168" entryy="29" entryz="7" rent="1000000" townid="1" size="10"/>
+  <house name="Cidade #025" houseid="268435695" entryx="173" entryy="39" entryz="7" rent="1000000" townid="1" size="13"/>
+  <house name="Cidade #026" houseid="268435696" entryx="166" entryy="26" entryz="7" rent="1000000" townid="1" size="10"/>
+  <house name="Cidade #027" houseid="268435698" entryx="154" entryy="21" entryz="7" rent="1000000" townid="1" size="14"/>
+  <house name="Cidade #028" houseid="268435700" entryx="135" entryy="23" entryz="7" rent="1000000" townid="1" size="26"/>
+  <house name="Cidade #029" houseid="268435702" entryx="219" entryy="36" entryz="7" rent="1000000" townid="1" size="49"/>
+  <house name="Cidade #030" houseid="268435703" entryx="215" entryy="44" entryz="7" rent="1000000" townid="1" size="19"/>
+  <house name="Cidade #031" houseid="268435717" entryx="149" entryy="20" entryz="7" rent="1000000" townid="1" size="6"/>
+  <house name="Cidade #032" houseid="268435761" entryx="96" entryy="71" entryz="7" rent="1000000" townid="1" size="372"/>
   <house name="Templo +1 #001" houseid="268435762" entryx="160" entryy="58" entryz="6" rent="1000000" townid="1" size="70"/>
   <house name="Templo +1 #002" houseid="268435763" entryx="153" entryy="58" entryz="6" rent="1000000" townid="1" size="48"/>
   <house name="Templo +1 #003" houseid="268435764" entryx="148" entryy="58" entryz="6" rent="1000000" townid="1" size="38"/>
@@ -88,10 +88,10 @@
   <house name="Templo +1 #005" houseid="268435766" entryx="152" entryy="51" entryz="6" rent="1000000" townid="1" size="9"/>
   <house name="Templo +1 #006" houseid="268435767" entryx="149" entryy="54" entryz="6" rent="1000000" townid="1" size="12"/>
   <house name="Templo +1 #007" houseid="268435768" entryx="139" entryy="48" entryz="6" rent="1000000" townid="1" size="21"/>
-  <house name="POI #1" houseid="268435769" entryx="71" entryy="25" entryz="7" rent="1000000" townid="1" size="15"/>
-  <house name="POI #2" houseid="268435770" entryx="97" entryy="36" entryz="7" rent="1000000" townid="1" size="154"/>
-  <house name="POI #3" houseid="268435771" entryx="75" entryy="24" entryz="7" rent="1000000" townid="1" size="6"/>
-  <house name="POI #4" houseid="268435772" entryx="80" entryy="30" entryz="7" rent="1000000" townid="1" size="6"/>
+  <house name="POI #001" houseid="268435769" entryx="71" entryy="25" entryz="7" rent="1000000" townid="1" size="15"/>
+  <house name="POI #002" houseid="268435770" entryx="97" entryy="36" entryz="7" rent="1000000" townid="1" size="154"/>
+  <house name="POI #003" houseid="268435771" entryx="75" entryy="24" entryz="7" rent="1000000" townid="1" size="6"/>
+  <house name="POI #004" houseid="268435772" entryx="80" entryy="30" entryz="7" rent="1000000" townid="1" size="6"/>
   <house name="Templo +1 #008" houseid="268435774" entryx="149" entryy="48" entryz="6" rent="1000000" townid="1" size="12"/>
   <house name="Templo +1 #009" houseid="268435775" entryx="149" entryy="44" entryz="6" rent="1000000" townid="1" size="12"/>
   <house name="Templo +1 #010" houseid="268435776" entryx="136" entryy="44" entryz="6" rent="1000000" townid="1" size="10"/>
@@ -107,4 +107,32 @@
   <house name="Templo +2 #005" houseid="268435786" entryx="146" entryy="48" entryz="5" rent="1000000" townid="1" size="15"/>
   <house name="Templo +2 #006" houseid="268435787" entryx="141" entryy="52" entryz="5" rent="1000000" townid="1" size="16"/>
   <house name="Templo +2 #007" houseid="268435788" entryx="151" entryy="51" entryz="5" rent="1000000" townid="1" size="15"/>
+  <house name="Cidade #001" houseid="268435789" entryx="123" entryy="24" entryz="7" rent="1000000" townid="1" size="9"/>
+  <house name="Cidade #002" houseid="268435790" entryx="128" entryy="17" entryz="7" rent="1000000" townid="1" size="8"/>
+  <house name="Cidade #003" houseid="268435791" entryx="132" entryy="14" entryz="7" rent="1000000" townid="1" size="6"/>
+  <house name="Cidade #004" houseid="268435792" entryx="135" entryy="16" entryz="7" rent="1000000" townid="1" size="7"/>
+  <house name="Cidade +1 #001" houseid="268435793" entryx="127" entryy="18" entryz="6" rent="1000000" townid="1" size="7"/>
+  <house name="Cidade +1 #002" houseid="268435794" entryx="123" entryy="24" entryz="6" rent="1000000" townid="1" size="12"/>
+  <house name="Cidade +1 #003" houseid="268435795" entryx="141" entryy="26" entryz="6" rent="1000000" townid="1" size="10"/>
+  <house name="Cidade +1 #004" houseid="268435796" entryx="153" entryy="21" entryz="6" rent="1000000" townid="1" size="48"/>
+  <house name="Cidade #005" houseid="268435797" entryx="185" entryy="39" entryz="7" rent="1000000" townid="1" size="10"/>
+  <house name="Cidade #006" houseid="268435798" entryx="132" entryy="32" entryz="7" rent="1000000" townid="1" size="22"/>
+  <house name="Cidade #007" houseid="268435799" entryx="139" entryy="35" entryz="7" rent="1000000" townid="1" size="22"/>
+  <house name="Cidade +1 #005" houseid="268435800" entryx="216" entryy="36" entryz="6" rent="1000000" townid="1" size="48"/>
+  <house name="Cidade +1 #006" houseid="268435801" entryx="216" entryy="44" entryz="6" rent="1000000" townid="1" size="34"/>
+  <house name="Cidade +1 #007" houseid="268435802" entryx="218" entryy="56" entryz="6" rent="1000000" townid="1" size="11"/>
+  <house name="Cidade +1 #008" houseid="268435803" entryx="226" entryy="56" entryz="6" rent="1000000" townid="1" size="32"/>
+  <house name="Cidade +1 #009" houseid="268435804" entryx="196" entryy="53" entryz="6" rent="1000000" townid="1" size="16"/>
+  <house name="Cidade +1 #010" houseid="268435805" entryx="0" entryy="0" entryz="0" rent="1000000" townid="1" size="0"/>
+  <house name="Cidade +1 #011" houseid="268435806" entryx="196" entryy="45" entryz="6" rent="1000000" townid="1" size="12"/>
+  <house name="Cidade +1 #012" houseid="268435807" entryx="184" entryy="45" entryz="6" rent="1000000" townid="1" size="8"/>
+  <house name="Cidade +1 #013" houseid="268435808" entryx="184" entryy="45" entryz="6" rent="1000000" townid="1" size="12"/>
+  <house name="Cidade Ghost +0 #014" houseid="268435809" entryx="2435" entryy="784" entryz="7" rent="1000000" townid="10" size="35"/>
+  <house name="Cidade Ghost +0 #015" houseid="268435810" entryx="2442" entryy="784" entryz="7" rent="1000000" townid="10" size="49"/>
+  <house name="Cidade Ghost +0 #016" houseid="268435811" entryx="2445" entryy="777" entryz="7" rent="1000000" townid="10" size="49"/>
+  <house name="Cidade Ghost +0 #017" houseid="268435812" entryx="2451" entryy="777" entryz="7" rent="1000000" townid="10" size="48"/>
+  <house name="Cidade Ghost +0 #018" houseid="268435813" entryx="2455" entryy="781" entryz="7" rent="1000000" townid="10" size="36"/>
+  <house name="Cidade Ghost +0 #019" houseid="268435814" entryx="2460" entryy="787" entryz="7" rent="1000000" townid="10" size="79"/>
+  <house name="Vip 1 #011" houseid="268435815" entryx="1042" entryy="1036" entryz="7" rent="1000000" townid="9" size="63"/>
+  <house name="Vip 1 #012" houseid="268435816" entryx="1049" entryy="1046" entryz="7" rent="0" townid="9" size="63"/>
 </houses>
