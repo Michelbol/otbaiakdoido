@@ -736,7 +736,7 @@
 	<!-- The Ruthless Seven Minions -->
 	<monster name="Annihilon" file="the ruthless seven minions/Annihilon.xml"/>
 	<monster name="Hellgorak" file="the ruthless seven minions/Hellgorak.xml"/>
-	<monster name="Latrivan" file="the ruthless seven minions/Latrivan.xml"/>
+	<monster name="LatriHell" file="the ruthless seven minions/Latrivan.xml"/>
 	<monster name="Madareth" file="the ruthless seven minions/Madareth.xml"/>
 	<monster name="Zugurosh" file="the ruthless seven minions/Zugurosh.xml"/>
 	<monster name="Ushuriel" file="the ruthless seven minions/Ushuriel.xml"/>

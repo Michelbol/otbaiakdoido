@@ -13,7 +13,7 @@
 	<monster name="Exp" file="baroes/Exp.xml"/>
 	<monster name="Noob" file="baroes/Noob.xml"/>
 	<monster name="Guarda costas do GOD" file="baroes/Guarda costas do GOD.xml"/>
-	<monster name="Alpha Crystal" file="Castle24Hrs/Alpha Crystal.xml"/>
+	<!-- <monster name="Alpha Crystal" file="Castle24Hrs/Alpha Crystal.xml"/> -->
 	<monster name="King" file="Castle24Hrs/King.xml"/>
 	
 	<!-- alissow Monsters -->
