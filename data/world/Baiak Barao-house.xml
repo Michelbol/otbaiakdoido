@@ -2,19 +2,19 @@
 <houses>
   <house name="POI #005" houseid="1943" entryx="79" entryy="22" entryz="7" rent="1000000" townid="1" size="8"/>
   <house name="Cidade #008" houseid="1959" entryx="197" entryy="49" entryz="7" rent="999999999" townid="1" size="74"/>
-  <house name="Cidade Ghost +0 #001" houseid="1983" entryx="2393" entryy="797" entryz="7" rent="1000000" townid="10" size="41"/>
-  <house name="Cidade Ghost +0 #002" houseid="1984" entryx="2404" entryy="797" entryz="7" rent="1000000" townid="10" size="41"/>
-  <house name="Cidade Ghost +0 #003" houseid="1985" entryx="2388" entryy="815" entryz="7" rent="1000000" townid="10" size="88"/>
-  <house name="Cidade Ghost +0 #004" houseid="1986" entryx="2400" entryy="805" entryz="7" rent="1000000" townid="10" size="61"/>
-  <house name="Cidade Ghost +0 #005" houseid="1987" entryx="2372" entryy="822" entryz="7" rent="1000000" townid="10" size="52"/>
-  <house name="Cidade Ghost +0 #006" houseid="1988" entryx="2379" entryy="824" entryz="7" rent="1000000" townid="10" size="61"/>
-  <house name="Cidade Ghost +0 #007" houseid="1989" entryx="2388" entryy="825" entryz="7" rent="1000000" townid="10" size="61"/>
-  <house name="Cidade Ghost +0 #008" houseid="1990" entryx="2400" entryy="825" entryz="7" rent="1000000" townid="10" size="68"/>
-  <house name="Cidade Ghost +0 #009" houseid="1991" entryx="2434" entryy="773" entryz="7" rent="1000000" townid="10" size="53"/>
-  <house name="Cidade Ghost +0 #010" houseid="2284" entryx="2388" entryy="805" entryz="7" rent="1000000" townid="10" size="72"/>
-  <house name="Cidade Ghost +0 #011" houseid="2285" entryx="2414" entryy="797" entryz="7" rent="1000000" townid="10" size="58"/>
-  <house name="Cidade Ghost +0 #012" houseid="2286" entryx="2412" entryy="806" entryz="7" rent="1000000" townid="10" size="150"/>
-  <house name="Cidade Ghost +0 #013" houseid="2287" entryx="2400" entryy="815" entryz="7" rent="1000000" townid="10" size="69"/>
+  <house name="Morgum +0 #001" houseid="1983" entryx="2393" entryy="797" entryz="7" rent="1000000" townid="10" size="41"/>
+  <house name="Morgum +0 #002" houseid="1984" entryx="2404" entryy="797" entryz="7" rent="1000000" townid="10" size="41"/>
+  <house name="Morgum +0 #003" houseid="1985" entryx="2388" entryy="815" entryz="7" rent="1000000" townid="10" size="88"/>
+  <house name="Morgum +0 #004" houseid="1986" entryx="2400" entryy="805" entryz="7" rent="1000000" townid="10" size="61"/>
+  <house name="Morgum +0 #005" houseid="1987" entryx="2372" entryy="822" entryz="7" rent="1000000" townid="10" size="52"/>
+  <house name="Morgum +0 #006" houseid="1988" entryx="2379" entryy="824" entryz="7" rent="1000000" townid="10" size="61"/>
+  <house name="Morgum +0 #007" houseid="1989" entryx="2388" entryy="825" entryz="7" rent="1000000" townid="10" size="61"/>
+  <house name="Morgum +0 #008" houseid="1990" entryx="2400" entryy="825" entryz="7" rent="1000000" townid="10" size="68"/>
+  <house name="Morgum +0 #009" houseid="1991" entryx="2434" entryy="773" entryz="7" rent="1000000" townid="10" size="53"/>
+  <house name="Morgum +0 #010" houseid="2284" entryx="2388" entryy="805" entryz="7" rent="1000000" townid="10" size="72"/>
+  <house name="Morgum +0 #011" houseid="2285" entryx="2414" entryy="797" entryz="7" rent="1000000" townid="10" size="58"/>
+  <house name="Morgum +0 #012" houseid="2286" entryx="2412" entryy="806" entryz="7" rent="1000000" townid="10" size="150"/>
+  <house name="Morgum +0 #013" houseid="2287" entryx="2400" entryy="815" entryz="7" rent="1000000" townid="10" size="69"/>
   <house name="Cidade Ghost II #001" houseid="268435521" entryx="2914" entryy="1299" entryz="7" rent="1000000" townid="11" size="119"/>
   <house name="Cidade Ghost II #002" houseid="268435522" entryx="2934" entryy="1299" entryz="7" rent="1000000" townid="11" size="28"/>
   <house name="Cidade Ghost II +1 #001" houseid="268435523" entryx="2938" entryy="1295" entryz="6" rent="1000000" townid="11" size="28"/>
@@ -124,12 +124,12 @@
   <house name="Cidade +1 #011" houseid="268435806" entryx="196" entryy="45" entryz="6" rent="1000000" townid="1" size="12"/>
   <house name="Cidade +1 #012" houseid="268435807" entryx="184" entryy="45" entryz="6" rent="1000000" townid="1" size="8"/>
   <house name="Cidade +1 #013" houseid="268435808" entryx="184" entryy="45" entryz="6" rent="1000000" townid="1" size="12"/>
-  <house name="Cidade Ghost +0 #014" houseid="268435809" entryx="2435" entryy="784" entryz="7" rent="1000000" townid="10" size="35"/>
-  <house name="Cidade Ghost +0 #015" houseid="268435810" entryx="2442" entryy="784" entryz="7" rent="1000000" townid="10" size="49"/>
-  <house name="Cidade Ghost +0 #016" houseid="268435811" entryx="2445" entryy="777" entryz="7" rent="1000000" townid="10" size="49"/>
-  <house name="Cidade Ghost +0 #017" houseid="268435812" entryx="2451" entryy="777" entryz="7" rent="1000000" townid="10" size="48"/>
-  <house name="Cidade Ghost +0 #018" houseid="268435813" entryx="2455" entryy="781" entryz="7" rent="1000000" townid="10" size="36"/>
-  <house name="Cidade Ghost +0 #019" houseid="268435814" entryx="2460" entryy="787" entryz="7" rent="1000000" townid="10" size="79"/>
+  <house name="Morgum +0 #014" houseid="268435809" entryx="2435" entryy="784" entryz="7" rent="1000000" townid="10" size="35"/>
+  <house name="Morgum +0 #015" houseid="268435810" entryx="2442" entryy="784" entryz="7" rent="1000000" townid="10" size="49"/>
+  <house name="Morgum +0 #016" houseid="268435811" entryx="2445" entryy="777" entryz="7" rent="1000000" townid="10" size="49"/>
+  <house name="Morgum +0 #017" houseid="268435812" entryx="2451" entryy="777" entryz="7" rent="1000000" townid="10" size="48"/>
+  <house name="Morgum +0 #018" houseid="268435813" entryx="2455" entryy="781" entryz="7" rent="1000000" townid="10" size="36"/>
+  <house name="Morgum +0 #019" houseid="268435814" entryx="2460" entryy="787" entryz="7" rent="1000000" townid="10" size="79"/>
   <house name="Vip 1 #011" houseid="268435815" entryx="1042" entryy="1036" entryz="7" rent="1000000" townid="9" size="63"/>
   <house name="Vip 1 #012" houseid="268435816" entryx="1049" entryy="1046" entryz="7" rent="0" townid="9" size="63"/>
   <house name="Cidade +1 #014" houseid="268435817" entryx="127" entryy="65" entryz="6" rent="1000000" townid="1" size="5"/>
