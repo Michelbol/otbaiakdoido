@@ -11024,9 +11024,6 @@
   <spawn centerx="3148" centery="97" centerz="7" radius="5">
     <monster name="Rhyder" x="1" y="3" z="7" spawntime="10"/>
   </spawn>
-  <spawn centerx="108" centery="98" centerz="7" radius="1">
-    <monster name="Black Sheep" x="-1" y="-1" z="7" spawntime="60"/>
-  </spawn>
   <spawn centerx="126" centery="98" centerz="7" radius="3">
     <monster name="Cyclops" x="2" y="2" z="7" spawntime="18"/>
   </spawn>
@@ -49706,8 +49703,7 @@
     <monster name="Dragon" x="-18" y="-3" z="15" spawntime="60"/>
     <monster name="Dragon Lord" x="-14" y="-3" z="15" spawntime="10"/>
     <monster name="Dragon" x="11" y="-2" z="15" spawntime="60"/>
-    <monster name="Dragon Lord" x="-13" y="-1" z="15" spawntime="10"/>
-    <monster name="Dragon Lord" x="-14" y="0" z="15" spawntime="10"/>
+    <monster name="Dragon Lord" x="11" y="0" z="15" spawntime="10"/>
     <monster name="Dragon" x="11" y="3" z="15" spawntime="60"/>
     <monster name="Dragon" x="-14" y="4" z="15" spawntime="60"/>
     <monster name="Dragon" x="10" y="5" z="15" spawntime="60"/>
@@ -49727,6 +49723,7 @@
     <monster name="Dragon" x="-16" y="25" z="15" spawntime="60"/>
     <monster name="Dragon" x="14" y="27" z="15" spawntime="60"/>
     <monster name="Dragon" x="-13" y="28" z="15" spawntime="60"/>
+    <monster name="Dragon Lord" x="13" y="29" z="15" spawntime="10"/>
     <monster name="Dragon" x="12" y="30" z="15" spawntime="60"/>
   </spawn>
   <spawn centerx="1932" centery="1731" centerz="15" radius="4">
