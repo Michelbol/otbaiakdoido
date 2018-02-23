@@ -18,7 +18,6 @@ local function filtrateString(str)
 			second = i + 2
 		end
 	end
-	print(str:sub(first, last), str:sub(second,final)
 	return {str:sub(first, last), str:sub(second, final)}
 end
 
