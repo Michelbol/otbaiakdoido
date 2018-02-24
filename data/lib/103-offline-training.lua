@@ -154,12 +154,3 @@ function OfflineTraining_setLogoutTime(cid)
 return doCreatureSetStorage(cid, 62668, os.time())
 
 end
-
-[/code]
-
-
-
-
-
-
-[color=#000000][b]em Data/actions/actions.xml adicione as seguintes tags[/b][/color]
