@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <houses>
   <house name="POI #005" houseid="1943" entryx="79" entryy="22" entryz="7" rent="1000000" townid="1" size="8"/>
-  <house name="Cidade #008" houseid="1959" entryx="197" entryy="49" entryz="7" rent="999999999" townid="1" size="74"/>
+  <house name="Cidade #008" houseid="1959" entryx="197" entryy="49" entryz="7" rent="999999999" townid="1" size="72"/>
   <house name="Morgum +0 #001" houseid="1983" entryx="2393" entryy="797" entryz="7" rent="1000000" townid="10" size="41"/>
   <house name="Morgum +0 #002" houseid="1984" entryx="2404" entryy="797" entryz="7" rent="1000000" townid="10" size="41"/>
   <house name="Morgum +0 #003" houseid="1985" entryx="2388" entryy="815" entryz="7" rent="1000000" townid="10" size="88"/>

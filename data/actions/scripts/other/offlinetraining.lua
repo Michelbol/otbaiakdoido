@@ -6,17 +6,33 @@ local statue = {
 	[8834] = SKILL__MAGLEVEL
 }
 
+-- function onUse(cid, item, fromPosition, itemEx, toPosition)
+-- 	if isPlayerPzLocked(cid) then
+-- 		return false
+-- 	end
+
+-- 	if item.actionid == 1000 and getPlayerPremiumDays(cid) > 0 then
+-- 		doPlayerSetOfflineTrainingSkill(cid, statue[item.itemid])
+-- 		doRemoveCreature(cid)
+-- 	else
+-- 		doPlayerSendDefaultCancel(cid, RETURNVALUE_YOUNEEDPREMIUMACCOUNT)
+-- 	end
+
+-- 	return true
+-- end
+
 function onUse(cid, item, fromPosition, itemEx, toPosition)
-	if isPlayerPzLocked(cid) then
+	local premiumDays = getPlayerPremiumDays(cid)
+	 
+	if (isPlayerPzLocked(cid)) then
 		return false
 	end
-
-	if item.actionid == 1000 and getPlayerPremiumDays(cid) > 0 then
+	 
+	if (isPremium(cid)) then
 		doPlayerSetOfflineTrainingSkill(cid, statue[item.itemid])
 		doRemoveCreature(cid)
 	else
 		doPlayerSendDefaultCancel(cid, RETURNVALUE_YOUNEEDPREMIUMACCOUNT)
 	end
-
 	return true
 end
