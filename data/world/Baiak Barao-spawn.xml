@@ -33093,7 +33093,6 @@
   </spawn>
   <spawn centerx="1268" centery="1712" centerz="7" radius="5">
     <monster name="Castle Grim Reaper" x="2" y="-2" z="7" spawntime="2"/>
-    <!-- <monster name="Alpha Crystal" x="3" y="0" z="7" spawntime="10"/> -->
   </spawn>
   <spawn centerx="1518" centery="1714" centerz="7" radius="1">
     <monster name="Castle Dragon Lord" x="-1" y="-1" z="7" spawntime="4"/>
@@ -38673,9 +38672,7 @@
     <monster name="Haunter" x="-2" y="20" z="8" spawntime="10"/>
   </spawn>
   <spawn centerx="2008" centery="497" centerz="8" radius="1"/>
-  <spawn centerx="63" centery="505" centerz="8" radius="10">
-    <!-- <monster name="Pazuzu" x="2" y="9" z="8" spawntime="3600"/> -->
-  </spawn>
+  <spawn centerx="63" centery="505" centerz="8" radius="10"/>
   <spawn centerx="846" centery="553" centerz="8" radius="5"/>
   <spawn centerx="836" centery="554" centerz="8" radius="5"/>
   <spawn centerx="854" centery="557" centerz="8" radius="5"/>
@@ -40246,9 +40243,7 @@
     <monster name="Magicthrower" x="1" y="0" z="8" spawntime="10"/>
   </spawn>
   <spawn centerx="1414" centery="1713" centerz="8" radius="1"/>
-  <spawn centerx="1413" centery="1717" centerz="8" radius="1">
-    <!-- <monster name="Alpha Crystal" x="0" y="0" z="8" spawntime="10"/> -->
-  </spawn>
+  <spawn centerx="1413" centery="1717" centerz="8" radius="1"/>
   <spawn centerx="1410" centery="1719" centerz="8" radius="1">
     <monster name="Magicthrower" x="-1" y="0" z="8" spawntime="10"/>
     <monster name="Magicthrower" x="0" y="0" z="8" spawntime="10"/>
@@ -40265,9 +40260,7 @@
     <monster name="Magicthrower" x="1" y="1" z="8" spawntime="10"/>
   </spawn>
   <spawn centerx="1400" centery="1722" centerz="8" radius="1"/>
-  <spawn centerx="1404" centery="1722" centerz="8" radius="1">
-    <monster name="Alpha Crystal" x="0" y="-1" z="8" spawntime="10"/>
-  </spawn>
+  <spawn centerx="1404" centery="1722" centerz="8" radius="1"/>
   <spawn centerx="1409" centery="1722" centerz="8" radius="1">
     <monster name="Magicthrower" x="0" y="0" z="8" spawntime="10"/>
   </spawn>
@@ -40275,9 +40268,7 @@
     <monster name="Crystal Protect" x="0" y="0" z="8" spawntime="4"/>
   </spawn>
   <spawn centerx="1371" centery="1726" centerz="8" radius="1"/>
-  <spawn centerx="1393" centery="1726" centerz="8" radius="1">
-    <!-- <monster name="Alpha Crystal" x="-1" y="0" z="8" spawntime="10"/> -->
-  </spawn>
+  <spawn centerx="1393" centery="1726" centerz="8" radius="1"/>
   <spawn centerx="1375" centery="1728" centerz="8" radius="1"/>
   <spawn centerx="1387" centery="1729" centerz="8" radius="1"/>
   <spawn centerx="1388" centery="1729" centerz="8" radius="1"/>
@@ -40340,9 +40331,7 @@
     <monster name="Quara Predator" x="-3" y="14" z="8" spawntime="25"/>
     <monster name="Quara Predator" x="12" y="14" z="8" spawntime="25"/>
   </spawn>
-  <spawn centerx="1364" centery="1785" centerz="8" radius="1">
-    <!-- <monster name="Alpha Crystal" x="0" y="0" z="8" spawntime="25"/> -->
-  </spawn>
+  <spawn centerx="1364" centery="1785" centerz="8" radius="1"/>
   <spawn centerx="2075" centery="1790" centerz="8" radius="1">
     <monster name="Donate Gang Member" x="0" y="0" z="8" spawntime="30"/>
   </spawn>
@@ -47284,9 +47273,7 @@
     <monster name="Dwarf" x="-2" y="0" z="14" spawntime="60"/>
     <monster name="Dwarf" x="5" y="1" z="14" spawntime="60"/>
   </spawn>
-  <spawn centerx="243" centery="58" centerz="14" radius="1">
-    <!-- <npc name="Mirrorem" x="-1" y="0" z="14" spawntime="60"/> -->
-  </spawn>
+  <spawn centerx="243" centery="58" centerz="14" radius="1"/>
   <spawn centerx="246" centery="58" centerz="14" radius="5">
     <monster name="Dwarf" x="2" y="0" z="14" spawntime="60"/>
     <monster name="Dwarf" x="-4" y="4" z="14" spawntime="60"/>
