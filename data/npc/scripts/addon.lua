@@ -110,10 +110,10 @@ local outfit_node = keywordHandler:addKeyword({'second knight addon'}, playerBuy
     outfit_node:addChildKeywordNode(noNode)
 
 -- mage (done)
-local outfit_node = keywordHandler:addKeyword({'first mage addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{2392,30}, {5903,1}, {2193,50}}, outfit_female = 138, outfit_male = 130, addon = 1, storageID = 10007}) 
+local outfit_node = keywordHandler:addKeyword({'first mage addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{9693,1}}, outfit_female = 138, outfit_male = 130, addon = 1, storageID = 10007}) 
 outfit_node:addChildKeywordNode(yesNode) 
 outfit_node:addChildKeywordNode(noNode) 
-local outfit_node = keywordHandler:addKeyword({'second mage addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{5903,1}}, outfit_female = 138, outfit_male = 130, addon = 2, storageID = 10008}) 
+local outfit_node = keywordHandler:addKeyword({'second mage addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{9693,1}}, outfit_female = 138, outfit_male = 130, addon = 2, storageID = 10008}) 
 outfit_node:addChildKeywordNode(yesNode) 
 outfit_node:addChildKeywordNode(noNode) 
 
