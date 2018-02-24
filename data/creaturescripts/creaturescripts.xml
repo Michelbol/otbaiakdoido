@@ -137,4 +137,10 @@
 	<event type="death" name="teleportmonster25" script="tpmonster25.lua"/> <!-- Massive Fire Elemental -->	
 	<event type="death" name="teleportmonster26" script="tpmonster26.lua"/> <!-- Massive Water Elemental -->	
 	
+	<!-- OfflineTraining -->
+	<event type="login" name="offtrain_PlayerLogin" event="script" value="offtrain_login.lua"/>
+
+	<event type="logout" name="offtrain_PlayerLogout" event="script" value="offtrain_logout.lua"/>
+
+
     </creaturescripts>

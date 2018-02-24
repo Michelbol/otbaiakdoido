@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <actions> 
 	<!-- offLineTraining -->
-	<action itemid="8836;9306;8626;3739;8834" event="script" value="other/offlinetraining.lua"/>
+	<action itemid="8836;9306;8626;3739;8834" event="script" value="offtrain_statue.lua"/>
 	 <action uniqueid="2499;2500" event="script" value="events/CTF.lua"/>
 	 <action itemid="2347" event="script" value="points.lua"/>
 	 <action actionid="2452" script="housetp.lua"/>
