@@ -22,7 +22,7 @@ mysqlReconnectionAttempts = 5
 encryptionType = "sha1"
 
 worldId = 0
-ip = "michel-bolzon.ddns.net"
+ip = "baiak-completo.servegame.com"
 worldType = "open"
 bindOnlyGlobalAddress = false
 loginPort = 7171

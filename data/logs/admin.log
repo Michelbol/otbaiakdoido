@@ -84,3 +84,10 @@
 [22/2/2018 23:21:6] (Error - ?open@ServicePort@@QAEXV?$vector@Vaddress@ip@asio@boost@@V?$allocator@Vaddress@ip@asio@boost@@@std@@@std@@G@Z) NETWORK: bind: The requested address is not valid in its context
 [22/2/2018 23:28:9] (Error - ?open@ServicePort@@QAEXV?$vector@Vaddress@ip@asio@boost@@V?$allocator@Vaddress@ip@asio@boost@@@std@@@std@@G@Z) NETWORK: bind: The requested address is not valid in its context
 [22/2/2018 23:34:34] (Error - ?open@ServicePort@@QAEXV?$vector@Vaddress@ip@asio@boost@@V?$allocator@Vaddress@ip@asio@boost@@@std@@@std@@G@Z) NETWORK: bind: The requested address is not valid in its context
+[23/2/2018 0:28:15] (Error - ?open@ServicePort@@QAEXV?$vector@Vaddress@ip@asio@boost@@V?$allocator@Vaddress@ip@asio@boost@@@std@@@std@@G@Z) NETWORK: bind: The requested address is not valid in its context
+[23/2/2018 0:30:30] (Error - ?open@ServicePort@@QAEXV?$vector@Vaddress@ip@asio@boost@@V?$allocator@Vaddress@ip@asio@boost@@@std@@@std@@G@Z) NETWORK: bind: The requested address is not valid in its context
+[23/2/2018 13:6:2] (Error - ?open@ServicePort@@QAEXV?$vector@Vaddress@ip@asio@boost@@V?$allocator@Vaddress@ip@asio@boost@@@std@@@std@@G@Z) NETWORK: bind: The requested address is not valid in its context
+[23/2/2018 13:21:14] (Error - ?open@ServicePort@@QAEXV?$vector@Vaddress@ip@asio@boost@@V?$allocator@Vaddress@ip@asio@boost@@@std@@@std@@G@Z) NETWORK: bind: The requested address is not valid in its context
+[23/2/2018 22:32:36] (Error - ?open@ServicePort@@QAEXV?$vector@Vaddress@ip@asio@boost@@V?$allocator@Vaddress@ip@asio@boost@@@std@@@std@@G@Z) NETWORK: bind: The requested address is not valid in its context
+[23/2/2018 22:48:19] (Error - ?open@ServicePort@@QAEXV?$vector@Vaddress@ip@asio@boost@@V?$allocator@Vaddress@ip@asio@boost@@@std@@@std@@G@Z) NETWORK: bind: The requested address is not valid in its context
+[24/2/2018 12:3:8] (Error - ?open@ServicePort@@QAEXV?$vector@Vaddress@ip@asio@boost@@V?$allocator@Vaddress@ip@asio@boost@@@std@@@std@@G@Z) NETWORK: bind: The requested address is not valid in its context
