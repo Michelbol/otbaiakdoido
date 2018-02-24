@@ -136,10 +136,10 @@ local outfit_node = keywordHandler:addKeyword({'second barbarian addon'}, player
     outfit_node:addChildKeywordNode(noNode)
 
 -- druid (done)
-local outfit_node = keywordHandler:addKeyword({'first druid addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{5896,100}, {5897,100}}, outfit_female = 148, outfit_male = 144, addon = 1, storageID = 10013})
+local outfit_node = keywordHandler:addKeyword({'first druid addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{5896,100}, {5897,100}, {9693,1}}, outfit_female = 148, outfit_male = 144, addon = 1, storageID = 10013})
     outfit_node:addChildKeywordNode(yesNode)
     outfit_node:addChildKeywordNode(noNode)
-local outfit_node = keywordHandler:addKeyword({'second druid addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{5903,1}, {5906,200}, {5880,100}, {2160,400}}, outfit_female = 148, outfit_male = 144, addon = 2, storageID = 10014})
+local outfit_node = keywordHandler:addKeyword({'second druid addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{5903,1}, {5906,200}, {5880,100}, {2160,400}, {9693,1}}, outfit_female = 148, outfit_male = 144, addon = 2, storageID = 10014})
     outfit_node:addChildKeywordNode(yesNode)
     outfit_node:addChildKeywordNode(noNode)
 
@@ -160,10 +160,10 @@ local outfit_node = keywordHandler:addKeyword({'second oriental addon'}, playerB
     outfit_node:addChildKeywordNode(noNode)
 
 -- warrior (done)
-local outfit_node = keywordHandler:addKeyword({'first warrior addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{5925,200}, {5899,300}, {5883,150}, {5919,1}}, outfit_female = 142, outfit_male = 134, addon = 1, storageID = 10019})
+local outfit_node = keywordHandler:addKeyword({'first warrior addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{5925,200}, {5899,300}, {5883,150}, {5919,1}, {9693,1}}, outfit_female = 142, outfit_male = 134, addon = 1, storageID = 10019})
     outfit_node:addChildKeywordNode(yesNode)
     outfit_node:addChildKeywordNode(noNode)
-local outfit_node = keywordHandler:addKeyword({'second warrior addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{5880,250}, {2160,400}}, outfit_female = 142, outfit_male = 134, addon = 2, storageID = 10020})
+local outfit_node = keywordHandler:addKeyword({'second warrior addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{5880,250}, {2160,400}, {9693,1}}, outfit_female = 142, outfit_male = 134, addon = 2, storageID = 10020})
     outfit_node:addChildKeywordNode(yesNode)
     outfit_node:addChildKeywordNode(noNode)
 
@@ -176,10 +176,10 @@ local outfit_node = keywordHandler:addKeyword({'second wizard addon'}, playerBuy
     outfit_node:addChildKeywordNode(noNode)
 
 -- assassin (done)
-local outfit_node = keywordHandler:addKeyword({'first assassin addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{5912,250}, {5910,250}, {5911,250}, {5913,250}, {5914,250}, {5909,250}, {5879,500}}, outfit_female = 156, outfit_male = 152, addon = 1, storageID = 10023})
+local outfit_node = keywordHandler:addKeyword({'first assassin addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{5912,250}, {5910,250}, {5911,250}, {5913,250}, {5914,250}, {5909,250}, {5879,500}, {9693,1}}, outfit_female = 156, outfit_male = 152, addon = 1, storageID = 10023})
     outfit_node:addChildKeywordNode(yesNode)
     outfit_node:addChildKeywordNode(noNode)
-local outfit_node = keywordHandler:addKeyword({'second assassin addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{2160,2000}, {5893,100}}, outfit_female = 156, outfit_male = 152, addon = 2, storageID = 10024})
+local outfit_node = keywordHandler:addKeyword({'second assassin addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{2160,2000}, {5893,100}, {9693,1}}, outfit_female = 156, outfit_male = 152, addon = 2, storageID = 10024})
     outfit_node:addChildKeywordNode(yesNode)
     outfit_node:addChildKeywordNode(noNode)
 
@@ -192,10 +192,10 @@ local outfit_node = keywordHandler:addKeyword({'second beggar addon'}, playerBuy
     outfit_node:addChildKeywordNode(noNode)
 
 -- pirate (done)
-local outfit_node = keywordHandler:addKeyword({'first pirate addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{2160,3000}}, outfit_female = 155, outfit_male = 151, addon = 1, storageID = 10027})
+local outfit_node = keywordHandler:addKeyword({'first pirate addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{2160,3000}, {9693,1}}, outfit_female = 155, outfit_male = 151, addon = 1, storageID = 10027})
     outfit_node:addChildKeywordNode(yesNode)
     outfit_node:addChildKeywordNode(noNode)
-local outfit_node = keywordHandler:addKeyword({'second pirate addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{5909,300}, {5914,300}, {5913,300}, {5912,1}}, outfit_female = 155, outfit_male = 151, addon = 2, storageID = 10028})
+local outfit_node = keywordHandler:addKeyword({'second pirate addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{5909,300}, {5914,300}, {5913,300}, {5912,1}, {9693,1}}, outfit_female = 155, outfit_male = 151, addon = 2, storageID = 10028})
     outfit_node:addChildKeywordNode(yesNode)
     outfit_node:addChildKeywordNode(noNode)
 
@@ -232,18 +232,18 @@ local outfit_node = keywordHandler:addKeyword({'second demonhunter addon'}, play
     outfit_node:addChildKeywordNode(noNode)
 
 -- nightmare (done)(custom)
-local outfit_node = keywordHandler:addKeyword({'first nightmare addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{6500,2500}}, outfit_female = 269, outfit_male = 268, addon = 1, storageID = 10037})
+local outfit_node = keywordHandler:addKeyword({'first nightmare addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{6500,2500}, {9693,1}}, outfit_female = 269, outfit_male = 268, addon = 1, storageID = 10037})
     outfit_node:addChildKeywordNode(yesNode)
     outfit_node:addChildKeywordNode(noNode)
-local outfit_node = keywordHandler:addKeyword({'second nightmare addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{6500,2500}}, outfit_female = 269, outfit_male = 268, addon = 2, storageID = 10038})
+local outfit_node = keywordHandler:addKeyword({'second nightmare addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{6500,2500}, {9693,1}}, outfit_female = 269, outfit_male = 268, addon = 2, storageID = 10038})
     outfit_node:addChildKeywordNode(yesNode)
     outfit_node:addChildKeywordNode(noNode)
 
 -- brotherhood (done)(custom)
-local outfit_node = keywordHandler:addKeyword({'first brotherhood addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{6500,2500}}, outfit_female = 279, outfit_male = 278, addon = 1, storageID = 10039})
+local outfit_node = keywordHandler:addKeyword({'first brotherhood addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{6500,2500}, {9693,1}}, outfit_female = 279, outfit_male = 278, addon = 1, storageID = 10039})
     outfit_node:addChildKeywordNode(yesNode)
     outfit_node:addChildKeywordNode(noNode)
-local outfit_node = keywordHandler:addKeyword({'second brotherhood addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{6500,2500}}, outfit_female = 279, outfit_male = 278, addon = 2, storageID = 10040})
+local outfit_node = keywordHandler:addKeyword({'second brotherhood addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{6500,2500}, {9693,1}}, outfit_female = 279, outfit_male = 278, addon = 2, storageID = 10040})
     outfit_node:addChildKeywordNode(yesNode)
     outfit_node:addChildKeywordNode(noNode)
 
@@ -264,10 +264,10 @@ local outfit_node = keywordHandler:addKeyword({'second warmaster addon'}, player
     outfit_node:addChildKeywordNode(noNode)
 	
 -- wayfarer (done)(custom)
-local outfit_node = keywordHandler:addKeyword({'first wayfarer addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{2160,300}}, outfit_female = 367, outfit_male = 366, addon = 1, storageID = 10045})
+local outfit_node = keywordHandler:addKeyword({'first wayfarer addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{2160,300}, {9693,1}}, outfit_female = 367, outfit_male = 366, addon = 1, storageID = 10045})
     outfit_node:addChildKeywordNode(yesNode)
     outfit_node:addChildKeywordNode(noNode)
-local outfit_node = keywordHandler:addKeyword({'second wayfarer addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{2160,300}}, outfit_female = 367, outfit_male = 366, addon = 2, storageID = 10046})
+local outfit_node = keywordHandler:addKeyword({'second wayfarer addon'}, playerBuyAddonNPC, {premium = false, cost = 0, items = {{2160,300}, {9693,1}}, outfit_female = 367, outfit_male = 366, addon = 2, storageID = 10046})
     outfit_node:addChildKeywordNode(yesNode)
     outfit_node:addChildKeywordNode(noNode)
 
