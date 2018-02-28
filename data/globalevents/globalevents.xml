@@ -20,8 +20,8 @@
 	<globalevent name="AnimatedSBW" interval="1500" event="script" value="events/SBW_animated.lua"/>
 	<globalevent name="firestorm" time="16:00" event="script" value="events/FireStorm.lua"/>
     <globalevent name="firestorm2" time="11:00" event="script" value="events/FireStorm.lua"/>
-    <globalevent name="desertwar" time="17:00" event="script" value="events/DesertWAR.lua"/>
-    <globalevent name="desertwar2" time="22:40" event="script" value="events/DesertWAR.lua"/>
+    <!-- <globalevent name="desertwar" time="17:00" event="script" value="events/DesertWAR.lua"/> -->
+    <!-- <globalevent name="desertwar2" time="22:40" event="script" value="events/DesertWAR.lua"/> -->
     <globalevent name="zombieevent" time="01:00" event="script" value="events/zombie.lua"/>
     <globalevent name="zombieevent2" time="09:00" event="script" value="events/zombie.lua"/>
 	<globalevent name="ctf" time="18:00" event="script" value="events/CTF.lua"/>
@@ -41,7 +41,7 @@
     <globalevent name="mensagemrei" interval="2330000" script="mensagemrei.lua" />
     <globalevent name="mensagemts" interval="1770000" script="mensagemts.lua" />
 	<globalevent name="mensagemautoloot" interval="1477800" script="mensagemautoloot.lua" />
-	<globalevent name="info1" interval="2895600" script="ossos.lua"/>
+	<!-- <globalevent name="info1" interval="2895600" script="ossos.lua"/> -->
 	<globalevent name="shopguild" interval="30000" event="script" value="shopguild.lua"/>
 	<globalevent name="init" type="startup" event="script" value="init.lua"/>
 	<globalevent name="startCave" type="startup" event="script" value="Killua Cave Owners.lua"/>

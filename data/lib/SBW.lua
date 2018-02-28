@@ -63,6 +63,6 @@ SBW_SHOOTDIR = 0
 SBW_STATUS = 'on' 
 
 -- MENSAGENS
-SBW_MSGWARNING = "[SNOWBALL WAR] Abriu o teleport de ingresso para o evento, para participar se dirija ate o templo do baiaknew."
+SBW_MSGWARNING = "[SNOWBALL WAR] Abriu o teleport de ingresso para o evento, para participar se dirija ate o templo do baiak-Completo."
 SBW_MSGSTART = "[SNOWBALL WAR] O teleport foi removido e o evento foi iniciado, boa sorte a todos participantes."
 

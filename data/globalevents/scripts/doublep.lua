@@ -5,7 +5,7 @@ function onThink(interval, lastExecution)
 [[
 AJUDE O SERVIDOR A MANTER-SE ONLINE COM A SUA DOAÇÃO!
 
-Entre em nosso site www.baiaknew.com
+Entre em nosso site http://baiak-completo.servegame.com
 ]]
 }
 

@@ -1,5 +1,5 @@
 function onUse(cid, item, frompos, item2, topos)
-doBroadcastMessage("[AVISO] A BaiakNew foi invadida por Monstros, venha proteger a cidade!")
+doBroadcastMessage("[AVISO] O BaiakCompleto foi invadida por Monstros, venha proteger a cidade!")
 	pos1 = {x=164,y=57,z=7}
 	pos2 = {x=176,y=39,z=7}
 	pos3 = {x=169,y=40,z=7} 

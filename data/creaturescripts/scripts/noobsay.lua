@@ -1,3 +1,3 @@
 function onDeath(cid)
-         doCreatureSay(cid,"BaiakNew.com",1)         
+         doCreatureSay(cid,"http://baiak-completo.servegame.com/",1)         
 end
