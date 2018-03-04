@@ -23,10 +23,6 @@ end
 
 
 function onUse(cid, item, fromPosition, itemEx, toPosition)
-	if getPlayerLevel(cid) > 500 then
-	doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_ORANGE, "Voce e maior que level 500, porem nao pode usar a cave exclusiva.")
-	return false
-	end
     	if tonumber(filtrateString(getGlobalStorageValue(822081))[2]) < os.time() then
 		doRemoveItem(item.uid)
 		setGlobalStorageValue(822081, "a "..getPlayerAccountId(cid).." b ".. os.time() + (3600 * 4))
